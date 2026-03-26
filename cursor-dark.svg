@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="72" height="20">
-  <style>
-    @keyframes blink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
-    .cursor { animation: blink 1.2s step-end infinite; }
-    text { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; font-size: 14px; fill: #e6edf3; }
-  </style>
-  <text y="15">$ <tspan class="cursor">&#x2588;</tspan></text>
-</svg>
