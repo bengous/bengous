@@ -8,6 +8,7 @@ TypeScript, Rust, Go, Python -- whatever fits the problem.
 Java in a past life.
 
 $ bengous ls tools  # things I built to use
+<a href="https://github.com/bengous/claude-code-plugins">claude-code-plugins</a>           Opinionated workflow plugins for Claude Code
 <a href="https://github.com/bengous/vex">vex</a>                           VLM-powered visual analysis of web layouts
 <a href="https://github.com/bengous/productivity-tracking">productivity-tracking</a>         Git-backed task manager with calendar sync
 <a href="https://github.com/bengous/prospector-helper">prospector-helper</a>             Query INSEE Sirene API for B2B leads
@@ -16,7 +17,6 @@ $ bengous ls tools  # things I built to use
 <a href="https://github.com/bengous/draft-flow-refine">draft-flow-refine</a>             Photoshoot draft review workflow UI
 <a href="https://github.com/bengous/agent-visitor">agent-visitor</a>                 Walk a codebase, emit per-directory YAML
 <a href="https://github.com/bengous/claude-hooks">claude-hooks</a>                  Hooks for Claude Code event lifecycle
-<a href="https://github.com/bengous/claude-code-plugins-public">claude-code-plugins-public</a>    Claude Code plugins: orchestration, git, meta
 <a href="https://github.com/bengous/custom-scripts">custom-scripts</a>                Venv and shell helpers for dev machines
 <a href="https://github.com/bengous/hookjson">hookjson</a>                      Wrap any command, emit NDJSON for AI agents
 <a href="https://github.com/bengous/fixme-helper">fixme-helper</a>                  Runbooks for fixing local dev issues
