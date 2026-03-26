@@ -7,7 +7,7 @@ $ bengous --stack
 TypeScript, Rust, Go, Python -- whatever fits the problem.
 Java in a past life.
 
-$ bengous ls tools  # things I built to use
+$ bengous ls tools            # things I built to use
 <a href="https://github.com/bengous/claude-code-plugins">claude-code-plugins</a>           Opinionated workflow plugins for Claude Code
 <a href="https://github.com/bengous/vex">vex</a>                           VLM-powered visual analysis of web layouts
 <a href="https://github.com/bengous/productivity-tracking">productivity-tracking</a>         Git-backed task manager with calendar sync
@@ -20,7 +20,7 @@ $ bengous ls tools  # things I built to use
 <a href="https://github.com/bengous/custom-scripts">custom-scripts</a>                Venv and shell helpers for dev machines
 <a href="https://github.com/bengous/hookjson">hookjson</a>                      Wrap any command, emit NDJSON for AI agents
 
-$ bengous ls experiments  # things I built to learn
+$ bengous ls experiments      # things I built to learn
 <a href="https://github.com/bengous/heartbeat-audio-visualizer">heartbeat-audio-visualizer</a>    Synthetic heartbeat audio + BPM viz
 <a href="https://github.com/bengous/go-htmx-todo">go-htmx-todo</a>                  Todo app with Go stdlib, htmx, and SQLite
 <a href="https://github.com/bengous/pharmock">pharmock</a>                      Static pharmacy site (Meylan, France)
@@ -35,7 +35,7 @@ $ bengous ls experiments  # things I built to learn
 <a href="https://github.com/bengous/AdventOfCode2022">AdventOfCode2022</a>              AoC 2022 solutions, days 1-4
 <a href="https://github.com/bengous/bengous-rust">bengous-rust</a>                  Personal site with Leptos (Rust/WASM)
 
-$ bengous ls school  # things I built because I had to
+$ bengous ls school           # things I built because I had to
 <a href="https://github.com/bengous/cosmopolitan">cosmopolitan</a>                  MinCaml-to-ARM compiler, full pipeline
 <a href="https://github.com/bengous/SocialBuddies">SocialBuddies</a>                 Distributed social network over Java RMI
 <a href="https://github.com/bengous/SabikeMockups">SabikeMockups</a>                 Angular Material UI mockups for Sabike
@@ -53,8 +53,8 @@ $ bengous ls school  # things I built because I had to
 <a href="https://github.com/bengous/patia">patia</a>                         JavaFX point stream visualizer
 
 $ bengous --links
-<a href="https://bengous.github.io/IdeAs/">journal</a>        bengous.github.io/IdeAs
-<a href="https://www.linkedin.com/in/augustinbengolea/">linkedin</a>       linkedin.com/in/augustinbengolea
+<a href="https://bengous.github.io/IdeAs/">journal</a>                       bengous.github.io/IdeAs
+<a href="https://www.linkedin.com/in/augustinbengolea/">linkedin</a>                      linkedin.com/in/augustinbengolea
 
 $ █
 </pre>
