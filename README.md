@@ -56,5 +56,9 @@ $ bengous --links
 <a href="https://bengous.github.io/IdeAs/">journal</a>        bengous.github.io/IdeAs
 <a href="https://www.linkedin.com/in/augustinbengolea/">linkedin</a>       linkedin.com/in/augustinbengolea
 
-$
 </pre>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="cursor-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="cursor-light.svg">
+  <img src="cursor-dark.svg" height="20">
+</picture>
