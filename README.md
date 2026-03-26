@@ -19,7 +19,6 @@ $ bengous ls tools  # things I built to use
 <a href="https://github.com/bengous/claude-hooks">claude-hooks</a>                  Hooks for Claude Code event lifecycle
 <a href="https://github.com/bengous/custom-scripts">custom-scripts</a>                Venv and shell helpers for dev machines
 <a href="https://github.com/bengous/hookjson">hookjson</a>                      Wrap any command, emit NDJSON for AI agents
-<a href="https://github.com/bengous/fixme-helper">fixme-helper</a>                  Runbooks for fixing local dev issues
 
 $ bengous ls experiments  # things I built to learn
 <a href="https://github.com/bengous/heartbeat-audio-visualizer">heartbeat-audio-visualizer</a>    Synthetic heartbeat audio + BPM viz
