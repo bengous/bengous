@@ -19,6 +19,7 @@ $ bengous ls tools            # things I built to use
 <a href="https://github.com/bengous/hookjson">hookjson</a>                      Wrap any command, emit NDJSON for AI agents
 <a href="https://github.com/bengous/agent-visitor">agent-visitor</a>                 Walk a codebase, emit per-directory YAML
 <a href="https://github.com/bengous/custom-scripts">custom-scripts</a>                Venv and shell helpers for dev machines
+<a href="https://github.com/bengous/npm-supply-exposure">npm-supply-exposure</a>           Wrote this after the axios supply-chain hit — am I safe?
 
 $ bengous ls experiments      # things I built to learn
 <a href="https://github.com/bengous/jukebox">jukebox</a>                       Next.js + Strapi with Spotify integration
