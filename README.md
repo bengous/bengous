@@ -14,6 +14,7 @@ $ bengous ls tools            # things I built to use
 <a href="https://github.com/bengous/multireports-end2end-helper">multireports-end2end-helper</a>   Java 21 E2E test framework, TestNG + Allure
 <a href="https://github.com/bengous/wireframer">wireframer</a>                    Inject into pages, export DOM as wireframe
 <a href="https://github.com/bengous/productivity-tracking">productivity-tracking</a>         Git-backed task manager with calendar sync
+<a href="https://github.com/bengous/bun-forge">bun-forge</a>                     Opinionated Bun project scaffolder
 <a href="https://github.com/bengous/claude-hooks">claude-hooks</a>                  Hooks for Claude Code event lifecycle
 <a href="https://github.com/bengous/bookmarker">bookmarker</a>                    Compare and sync bookmarks across browsers
 <a href="https://github.com/bengous/npm-supply-exposure">npm-supply-exposure</a>           Scan for traces of compromised npm packages
