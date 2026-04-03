@@ -58,6 +58,7 @@ $ bengous ls school           # things I built because I had to
 <a href="https://github.com/bengous/patia">patia</a>                         JavaFX point stream visualizer
 
 $ bengous ls collabs          # things I built on other accounts
+<a href="https://github.com/guigpap/CV">guigpap/CV</a>                    Terminal-style portfolio, design + code
 
 $ bengous --links
 <a href="https://bengous.github.io/IdeAs/">journal</a>                       bengous.github.io/IdeAs
