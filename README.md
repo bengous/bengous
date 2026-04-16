@@ -14,6 +14,7 @@ $ bengous ls tools            # things I built to use
 <a href="https://github.com/bengous/multireports-end2end-helper">multireports-end2end-helper</a>   Java 21 E2E test framework, TestNG + Allure
 <a href="https://github.com/bengous/wireframer">wireframer</a>                    Inject into pages, export DOM as wireframe
 <a href="https://github.com/bengous/productivity-tracking">productivity-tracking</a>         Git-backed task manager with calendar sync
+<a href="https://github.com/bengous/agents-skills">agents-skills</a>                 Custom skills for Claude Code agents
 <a href="https://github.com/bengous/bun-forge">bun-forge</a>                     Opinionated Bun project scaffolder
 <a href="https://github.com/bengous/claude-hooks">claude-hooks</a>                  Hooks for Claude Code event lifecycle
 <a href="https://github.com/bengous/bookmarker">bookmarker</a>                    Compare and sync bookmarks across browsers
@@ -26,6 +27,7 @@ $ bengous ls tools            # things I built to use
 
 $ bengous ls experiments      # things I built to learn
 <a href="https://github.com/bengous/jukebox">jukebox</a>                       Next.js + Strapi with Spotify integration
+<a href="https://github.com/bengous/circuito-combinacion">circuito-combinacion</a>          Few-prompt circuit demo for a veteran electrician
 <a href="https://github.com/bengous/docaudit">docaudit</a>                      Audit documents with Claude, rewrite as PDF
 <a href="https://github.com/bengous/heartbeat-audio-visualizer">heartbeat-audio-visualizer</a>    Synthetic heartbeat audio + BPM viz
 <a href="https://github.com/bengous/csv-merge-edu">csv-merge-edu</a>                 Merge French school CSVs + Maps links
@@ -42,8 +44,8 @@ $ bengous ls experiments      # things I built to learn
 <a href="https://github.com/bengous/rust-game-of-conway">rust-game-of-conway</a>           Conway's Game of Life with Piston rendering
 
 $ bengous ls school           # things I built because I had to
-<a href="https://github.com/bengous/IonicFirebaseToutdoux">IonicFirebaseToutdoux</a>         Todo list app with Firebase sync
 <a href="https://github.com/bengous/cosmopolitan">cosmopolitan</a>                  MinCaml-to-ARM compiler, full pipeline
+<a href="https://github.com/bengous/IonicFirebaseToutdoux">IonicFirebaseToutdoux</a>         Todo list app with Firebase sync
 <a href="https://github.com/bengous/mincaml-compiler">mincaml-compiler</a>              MinCaml compiler frontend: parser, visitors
 <a href="https://github.com/bengous/SocialBuddies">SocialBuddies</a>                 Distributed social network over Java RMI
 <a href="https://github.com/bengous/Sabike">Sabike</a>                        Bike e-commerce (JHipster/Spring/Angular)
