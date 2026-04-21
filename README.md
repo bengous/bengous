@@ -11,13 +11,13 @@ $ bengous ls tools            # things I built to use
 <a href="https://github.com/bengous/claude-code-plugins">claude-code-plugins</a>           Opinionated workflow plugins for Claude Code
 <a href="https://github.com/bengous/vex">vex</a>                           VLM-powered visual analysis of web layouts
 <a href="https://github.com/bengous/prospector-helper">prospector-helper</a>             Query INSEE Sirene API for B2B leads
+<a href="https://github.com/bengous/bun-forge">bun-forge</a>                     Opinionated Bun project scaffolder
 <a href="https://github.com/bengous/multireports-end2end-helper">multireports-end2end-helper</a>   Java 21 E2E test framework, TestNG + Allure
 <a href="https://github.com/bengous/wireframer">wireframer</a>                    Inject into pages, export DOM as wireframe
 <a href="https://github.com/bengous/productivity-tracking">productivity-tracking</a>         Git-backed task manager with calendar sync
 <a href="https://github.com/bengous/agents-skills">agents-skills</a>                 Custom skills for Claude Code agents
-<a href="https://github.com/bengous/bun-forge">bun-forge</a>                     Opinionated Bun project scaffolder
-<a href="https://github.com/bengous/claude-hooks">claude-hooks</a>                  Hooks for Claude Code event lifecycle
 <a href="https://github.com/bengous/bookmarker">bookmarker</a>                    Compare and sync bookmarks across browsers
+<a href="https://github.com/bengous/claude-hooks">claude-hooks</a>                  Hooks for Claude Code event lifecycle
 <a href="https://github.com/bengous/npm-supply-exposure">npm-supply-exposure</a>           Scan for traces of compromised npm packages
 <a href="https://github.com/bengous/draft-flow-refine">draft-flow-refine</a>             Photoshoot draft review workflow UI
 <a href="https://github.com/bengous/hookjson">hookjson</a>                      Wrap any command, emit NDJSON for AI agents
@@ -28,6 +28,7 @@ $ bengous ls tools            # things I built to use
 $ bengous ls experiments      # things I built to learn
 <a href="https://github.com/bengous/jukebox">jukebox</a>                       Next.js + Strapi with Spotify integration
 <a href="https://github.com/bengous/circuito-combinacion">circuito-combinacion</a>          Few-prompt circuit demo for a veteran electrician
+<a href="https://bengous.github.io/cap/">cap</a>                           Weekend experiment; <a href="https://github.com/bengous/cap">build repo</a>
 <a href="https://github.com/bengous/docaudit">docaudit</a>                      Audit documents with Claude, rewrite as PDF
 <a href="https://github.com/bengous/heartbeat-audio-visualizer">heartbeat-audio-visualizer</a>    Synthetic heartbeat audio + BPM viz
 <a href="https://github.com/bengous/csv-merge-edu">csv-merge-edu</a>                 Merge French school CSVs + Maps links
@@ -64,7 +65,7 @@ $ bengous ls collabs          # things I built for others
 
 $ bengous --links
 <a href="https://bengous.github.io/IdeAs/">journal</a>                       bengous.github.io/IdeAs
-<a href="https://www.linkedin.com/in/augustinbengolea/">linkedin</a>                      linkedin.com/in/augustinbengolea
+<a href="https://www.linkedin.com/in/augustinbengolea/" target="_blank" rel="noopener noreferrer">linkedin</a>                      linkedin.com/in/augustinbengolea
 
 $ █
 </pre>
