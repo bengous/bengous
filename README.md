@@ -9,7 +9,7 @@ Java in a past life.
 
 $ bengous ls tools            # things I built to use
 <a href="https://github.com/bengous/claude-code-plugins">claude-code-plugins</a>           Opinionated workflow plugins for Claude Code <!-- profile: priority=100 -->
-<a href="https://github.com/bengous/bun-forge">bun-forge</a>                     Opinionated Bun project scaffolder <!-- profile: priority=90 -->
+<a href="https://github.com/bengous/kitsmith">kitsmith</a>                      Opinionated Bun project scaffolder <!-- profile: priority=90 -->
 <a href="https://github.com/bengous/vex">vex</a>                           VLM-powered visual analysis of web layouts <!-- profile: priority=80 -->
 <a href="https://github.com/bengous/agents-skills">agents-skills</a>                 Custom skills for Claude Code agents <!-- profile: priority=70 -->
 <a href="https://github.com/bengous/wireframer">wireframer</a>                    Inject into pages, export DOM as wireframe <!-- profile: priority=60 -->
