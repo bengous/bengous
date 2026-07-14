@@ -71,6 +71,7 @@ $ bengous ls collabs          # things I built for others
 <a href="https://bengous.github.io/petit-manege-classe/">petit-manege-classe</a>           Classroom randomizer and balanced team builder
 <a href="https://github.com/bengous/jukebox">jukebox</a>                       Next.js + Strapi with Spotify integration
 <a href="https://guigpap.github.io/CV/">guigpap/CV</a>                    Terminal-style portfolio, design + code
+<a href="https://benjamin-rouanet.github.io/mon-cv/">benjamin-rouanet/mon-cv</a>       Horology CV site + linked educational game
 
 $ bengous --links
 <a href="https://bengous.github.io/IdeAs/">journal</a>                       bengous.github.io/IdeAs
