@@ -71,6 +71,7 @@ $ bengous ls school           # things I built because I had to
 <a href="https://github.com/bengous/AdventOfCode2022">AdventOfCode2022</a>              AoC 2022 solutions, days 1-4 <!-- profile: priority=-120 -->
 
 $ bengous ls collabs          # things I built for others
+<a href="https://domocuisto.com">DomoCuisto</a>                    Astro site on Cloudflare, migrated off Shopify <!-- profile: priority=100 -->
 <a href="https://bengous.github.io/petit-manege-classe/">petit-manege-classe</a>           Classroom randomizer and balanced team builder
 <a href="https://github.com/bengous/jukebox">jukebox</a>                       Next.js + Strapi with Spotify integration
 <a href="https://guigpap.github.io/CV/">guigpap/CV</a>                    Terminal-style portfolio, design + code
