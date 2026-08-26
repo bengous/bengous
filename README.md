@@ -1,15 +1,16 @@
 <pre>
 $ bengous --about
-Software engineer. France.
-I build software end to end, from product interfaces to developer tooling.
+Full-stack engineer. France.
+I work with coding agents and build the context, tooling and guardrails
+that keep control of the result.
 
 $ bengous --lately
-Rust CLIs for the coding-agent loop: hooks, context routing,
-completion notifications. Open data web apps on the side.
+Gateways and CLIs around the agent loop: hooks, context routing,
+completion alerts. Rust case studies and open data web apps on the side.
 
 $ bengous --stack
 TypeScript, Rust, Go, Python -- whatever fits the problem.
-Java in a past life.
+Java and Kotlin on regulated-industry backends.
 
 $ bengous ls tools            # things I built to use
 <a href="https://github.com/bengous/claude-code-plugins">claude-code-plugins</a>           Opinionated workflow plugins for Claude Code <!-- profile: priority=100 -->
@@ -18,14 +19,15 @@ $ bengous ls tools            # things I built to use
 <a href="https://github.com/bengous/wireframer">wireframer</a>                    Inject into pages, export DOM as wireframe <!-- profile: priority=60 -->
 <a href="https://github.com/bengous/hex-validator">hex-validator</a>                 Architecture validator for hexagonal TypeScript <!-- profile: priority=50 -->
 <a href="https://github.com/bengous/custom-scripts">custom-scripts</a>                Venv and shell helpers for dev machines <!-- profile: priority=40 -->
-<a href="https://github.com/bengous/agent-notifier-omarchy">agent-notifier-omarchy</a>        Finished-agent alerts and bar widget for Omarchy
 <a href="https://github.com/bengous/kitsmith">kitsmith</a>                      Opinionated Bun project scaffolder (archived, lives on in runweaver)
+<a href="https://github.com/bengous/agent-notifier-omarchy">agent-notifier-omarchy</a>        Finished-agent alerts and bar widget for Omarchy
+<a href="https://github.com/bengous/ccgateways">ccgateways</a>                    Point Claude Code at any Anthropic-compatible gateway
 <a href="https://github.com/bengous/runweaver">runweaver</a>                     Declare quality tooling once for agent hooks, Git hooks, CI, and CLIs
 <a href="https://github.com/bengous/codex-path-rules">codex-path-rules</a>              Load path-scoped rules into Codex only when relevant
 <a href="https://github.com/bengous/prompt-context-router">prompt-context-router</a>         Route prompt keywords to project context files, via hooks
 <a href="https://github.com/bengous/multireports-end2end-helper">multireports-end2end-helper</a>   Java 21 E2E test framework, TestNG + Allure
 <a href="https://github.com/bengous/agent-visitor">agent-visitor</a>                 Walk a codebase, emit per-directory YAML
-<a href="https://github.com/bengous/claude-to-codex-session">claude-to-codex-session</a>       Import Claude Code transcripts into Codex sessions (archived, Codex does it natively now)
+<a href="https://github.com/bengous/claude-to-codex-session">claude-to-codex-session</a>       Import Claude Code transcripts into Codex sessions (archived)
 <a href="https://github.com/bengous/productivity-tracking">productivity-tracking</a>         Git-backed task manager with calendar sync
 <a href="https://github.com/bengous/whisperer">whisperer</a>                     Local-first audio and video transcription with Whisper
 <a href="https://github.com/bengous/agentlink">agentlink</a>                     Audit and migrate agent instruction files across repos
@@ -39,9 +41,12 @@ $ bengous ls experiments      # things I built to learn
 <a href="https://github.com/bengous/ai-context-layers">ai-context-layers</a>             Layered context engineering for AI assistants <!-- profile: priority=100 -->
 <a href="https://github.com/bengous/docaudit">docaudit</a>                      Audit documents with Claude, rewrite as PDF <!-- profile: priority=90 -->
 <a href="https://bengous.github.io/cap/">cap</a>                           Weekend experiment; <a href="https://github.com/bengous/cap">build repo</a> <!-- profile: priority=30 -->
-<a href="https://github.com/bengous/ambiens">ambiens</a>                       Tap water quality by commune, from official checks; <a href="https://bengous.github.io/ambiens/">demo</a>
-<a href="https://github.com/bengous/explorador-genealogia-bengolea">explorador-genealogia-bengolea</a> Interactive family tree explorer, in Spanish
+<a href="https://github.com/bengous/d2r-manager">d2r-manager</a>                   Rust case study: Diablo II save migration and stash merges
+<a href="https://github.com/bengous/minecraft-builds">oxcraft</a>                       Verification harness for a voxel engine written by a model
 <a href="https://github.com/bengous/effect-visual-tutor">effect-visual-tutor</a>           Interactive visual lessons for code and architecture
+<a href="https://github.com/bengous/ambiens">ambiens</a>                       Tap water quality by commune, from official checks; <a href="https://bengous.github.io/ambiens/">demo</a>
+<a href="https://github.com/bengous/explorador-genealogia-bengolea">explorador-genealogia</a>         Interactive family tree explorer, in Spanish
+<a href="https://github.com/bengous/potabilis">potabilis</a>                     Local Bun prototype behind ambiens, parses official thresholds
 <a href="https://github.com/bengous/circuito-combinacion">circuito-combinacion</a>          Few-prompt circuit demo for a veteran electrician
 <a href="https://github.com/bengous/go-htmx-todo">go-htmx-todo</a>                  Todo app with Go stdlib, htmx, and SQLite
 <a href="https://github.com/bengous/pharmock">pharmock</a>                      Static pharmacy site (Meylan, France)
