@@ -20,14 +20,14 @@ $ bengous ls tools            # things I built to use
 <a href="https://github.com/bengous/hex-validator">hex-validator</a>                 Architecture validator for hexagonal TypeScript <!-- profile: priority=50 -->
 <a href="https://github.com/bengous/custom-scripts">custom-scripts</a>                Venv and shell helpers for dev machines <!-- profile: priority=40 -->
 <a href="https://github.com/bengous/kitsmith">kitsmith</a>                      Opinionated Bun project scaffolder (archived, lives on in runweaver)
-<a href="https://github.com/bengous/agent-notifier-omarchy">agent-notifier-omarchy</a>        Finished-agent alerts and bar widget for Omarchy
 <a href="https://github.com/bengous/codex-path-rules">codex-path-rules</a>              Load path-scoped rules into Codex only when relevant
+<a href="https://github.com/bengous/agent-notifier-omarchy">agent-notifier-omarchy</a>        Finished-agent alerts and bar widget for Omarchy
 <a href="https://github.com/bengous/npm-supply-exposure">npm-supply-exposure</a>           Scan for traces of compromised npm packages
 <a href="https://github.com/bengous/ccgateways">ccgateways</a>                    Point Claude Code at any Anthropic-compatible gateway
 <a href="https://github.com/bengous/runweaver">runweaver</a>                     Declare quality tooling once for agent hooks, Git hooks, CI, and CLIs
-<a href="https://github.com/bengous/prompt-context-router">prompt-context-router</a>         Route prompt keywords to project context files, via hooks
 <a href="https://github.com/bengous/multireports-end2end-helper">multireports-end2end-helper</a>   Java 21 E2E test framework, TestNG + Allure
 <a href="https://github.com/bengous/agent-visitor">agent-visitor</a>                 Walk a codebase, emit per-directory YAML
+<a href="https://github.com/bengous/prompt-context-router">prompt-context-router</a>         Route prompt keywords to project context files, via hooks
 <a href="https://github.com/bengous/claude-to-codex-session">claude-to-codex-session</a>       Import Claude Code transcripts into Codex sessions (archived)
 <a href="https://github.com/bengous/productivity-tracking">productivity-tracking</a>         Git-backed task manager with calendar sync
 <a href="https://github.com/bengous/whisperer">whisperer</a>                     Local-first audio and video transcription with Whisper
