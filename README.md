@@ -11,14 +11,7 @@ completion alerts. Rust case studies and open data web apps on the side.
 $ bengous --stack
 TypeScript, Rust, Go, Python -- whatever fits the problem.
 Java and Kotlin on regulated-industry backends.
-</pre>
 
-<p><a href="https://domocuisto.com"><img src="assets/domocuisto.jpg" width="49%" alt="DomoCuisto: Astro site on Cloudflare, migrated off Shopify"></a>
-<a href="https://github.com/bengous/agentcraft"><img src="assets/agentcraft.jpg" width="49%" alt="agentcraft: Voxel sandbox in Rust, built release after release by different AI models"></a></p>
-<p><a href="https://bengous.github.io/ambiens/"><img src="assets/ambiens.jpg" width="49%" alt="ambiens: Tap water quality by commune, from official checks"></a>
-<a href="https://bengous.github.io/cap/"><img src="assets/cap.jpg" width="49%" alt="cap: A reflection test: 49 statements, 5 drivers"></a></p>
-
-<pre>
 $ bengous ls tools            # things I built to use
 <a href="https://github.com/bengous/claude-code-plugins">claude-code-plugins</a>           Opinionated workflow plugins for Claude Code <!-- profile: priority=100 -->
 <a href="https://github.com/bengous/vex">vex</a>                           VLM-powered visual analysis of web layouts <!-- profile: priority=80 -->
