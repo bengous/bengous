@@ -14,9 +14,9 @@ Java and Kotlin on regulated-industry backends.
 </pre>
 
 <p><a href="https://domocuisto.com"><img src="assets/domocuisto.jpg" width="49%" alt="DomoCuisto: Astro site on Cloudflare, migrated off Shopify"></a>
-<a href="https://bengous.github.io/petit-manege-classe/"><img src="assets/petit-manege.jpg" width="49%" alt="petit-manege-classe: Classroom randomizer and balanced team builder"></a></p>
+<a href="https://github.com/bengous/agentcraft"><img src="assets/agentcraft.jpg" width="49%" alt="agentcraft: Voxel sandbox in Rust, built release after release by different AI models"></a></p>
 <p><a href="https://bengous.github.io/ambiens/"><img src="assets/ambiens.jpg" width="49%" alt="ambiens: Tap water quality by commune, from official checks"></a>
-<a href="https://github.com/bengous/vex"><img src="assets/vex.jpg" width="49%" alt="vex: VLM-powered visual analysis of web layouts"></a></p>
+<a href="https://bengous.github.io/cap/"><img src="assets/cap.jpg" width="49%" alt="cap: A reflection test: 49 statements, 5 drivers"></a></p>
 
 <pre>
 $ bengous ls tools            # things I built to use
@@ -29,6 +29,7 @@ $ bengous ls tools            # things I built to use
 <a href="https://github.com/bengous/adv360">adv360</a>                        Native Linux editor for the Kinesis Advantage360
 <a href="https://github.com/bengous/agent-notifier-omarchy">agent-notifier-omarchy</a>        Finished-agent alerts and bar widget for Omarchy
 <a href="https://github.com/bengous/scripts-and-snippets">scripts-and-snippets</a>          Small standalone scripts, one problem each
+<a href="https://github.com/bengous/caveats">caveats</a>                       Find hidden text in a CV, judge its intent, hand it to a human
 <a href="https://github.com/bengous/kitsmith">kitsmith</a>                      Opinionated Bun project scaffolder (archived, lives on in runweaver)
 <a href="https://github.com/bengous/codex-path-rules">codex-path-rules</a>              Load path-scoped rules into Codex only when relevant
 <a href="https://github.com/bengous/npm-supply-exposure">npm-supply-exposure</a>           Scan for traces of compromised npm packages
@@ -51,7 +52,8 @@ $ bengous ls experiments      # things I built to learn
 <a href="https://github.com/bengous/docaudit">docaudit</a>                      Audit documents with Claude, rewrite as PDF <!-- profile: priority=90 -->
 <a href="https://bengous.github.io/cap/">cap</a>                           Weekend experiment; <a href="https://github.com/bengous/cap">build repo</a> <!-- profile: priority=30 -->
 <a href="https://github.com/bengous/circuito-combinacion">circuito-combinacion</a>          Few-prompt circuit demo for a veteran electrician
-<a href="https://github.com/bengous/oxcraft">oxcraft</a>                       Voxel sandbox in Rust, wgpu and WGSL, written by a model
+<a href="https://github.com/bengous/agentcraft">agentcraft</a>                    Voxel sandbox in Rust, built release after release by different AI models
+<a href="https://bengous.github.io/d2-lab/">d2-lab</a>                        IAS calculator for Diablo II: Resurrected
 <a href="https://github.com/bengous/d2r-manager">d2r-manager</a>                   Rust case study: Diablo II save migration and stash merges
 <a href="https://bengous.github.io/git-image-par-image/">git-image-par-image</a>           Git explained frame by frame, in French
 <a href="https://github.com/bengous/ambiens">ambiens</a>                       Tap water quality by commune, from official checks; <a href="https://bengous.github.io/ambiens/">demo</a>
