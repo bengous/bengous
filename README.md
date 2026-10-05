@@ -88,6 +88,11 @@ $ bengous ls collabs          # things I built for others
 <a href="https://guigpap.github.io/CV/">guigpap/CV</a>                    Terminal-style portfolio, design + code
 <a href="https://benjamin-rouanet.github.io/mon-cv/">benjamin-rouanet/mon-cv</a>       Horology CV site + linked educational game
 
+$ bengous ls --private
+ls: permission denied
+...and many, many more: client sites, internal tools,
+and experiments that are not public yet.
+
 $ bengous --links
 <a href="https://bengous.github.io/IdeAs/">journal</a>                       bengous.github.io/IdeAs
 <a href="https://www.linkedin.com/in/augustinbengolea/" target="_blank" rel="noopener noreferrer">linkedin</a>                      linkedin.com/in/augustinbengolea
