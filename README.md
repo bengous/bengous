@@ -1,18 +1,29 @@
 <pre>
-$ bengous --about
-Full-stack engineer. France.
-I work with coding agents and build the context, tooling and guardrails
-that keep control of the result.
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/intro-dark.svg"><img src="assets/intro-light.svg" alt="$ bengous --about: Full-stack engineer. France. I work with coding agents and build the context, tooling and guardrails that keep control of the result."></picture>
 
-$ bengous --lately
+<b>$ bengous --lately</b>
 Gateways and CLIs around the agent loop: hooks, context routing,
 completion alerts. Rust case studies and open data web apps on the side.
 
-$ bengous --stack
+<b>$ bengous --stack</b>
 TypeScript, Rust, Go, Python -- whatever fits the problem.
 Java and Kotlin on regulated-industry backends.
 
-$ bengous ls tools            # things I built to use
+<b>$ bengous log --since=30.days</b>
+Oct  5  <a href="https://bengous.github.io/d2-lab/">d2-lab</a>                        IAS calculator for Diablo II: Resurrected
+Oct  5  <a href="https://github.com/bengous/adv360">adv360</a>                        Native Linux editor for the Kinesis Advantage360
+Oct  2  <a href="https://github.com/bengous/claude-code-plugins">claude-code-plugins</a>           Opinionated workflow plugins for Claude Code
+Oct  2  <a href="https://github.com/bengous/agentcraft">agentcraft</a>                    Voxel sandbox in Rust, built release after release by differe…
+Sep 29  <a href="https://github.com/bengous/circuito-combinacion">circuito-combinacion</a>          Few-prompt circuit demo for a veteran electrician
+Sep 29  <a href="https://github.com/bengous/caveats">caveats</a>                       Find hidden text in a CV, judge its intent, hand it to a human
+Sep 29  <a href="https://github.com/bengous/scripts-and-snippets">scripts-and-snippets</a>          Small standalone scripts, one problem each
+Sep 26  <a href="https://github.com/bengous/agents-skills">agents-skills</a>                 Custom skills for Claude Code agents
+Sep 25  <a href="https://bengous.github.io/petit-manege-classe/">petit-manege-classe</a>           Classroom randomizer and balanced team builder
+Sep 21  <a href="https://bengous.github.io/git-image-par-image/">git-image-par-image</a>           Git explained frame by frame, in French
+Sep 12  <a href="https://github.com/bengous/agent-notifier-omarchy">agent-notifier-omarchy</a>        Finished-agent alerts and bar widget for Omarchy
+Sep  6  <a href="https://bengous.github.io/pepin/">pepin</a>                         A seed walks a valley of pink pyjama fibres
+
+<b>$ bengous ls tools</b>            # things I built to use
 <a href="https://github.com/bengous/claude-code-plugins">claude-code-plugins</a>           Opinionated workflow plugins for Claude Code <!-- profile: priority=100 -->
 <a href="https://github.com/bengous/vex">vex</a>                           VLM-powered visual analysis of web layouts <!-- profile: priority=80 -->
 <a href="https://github.com/bengous/agents-skills">agents-skills</a>                 Custom skills for Claude Code agents <!-- profile: priority=70 -->
@@ -40,7 +51,7 @@ $ bengous ls tools            # things I built to use
 <a href="https://github.com/bengous/draft-flow-refine">draft-flow-refine</a>             Photoshoot draft review workflow UI (archived)
 <a href="https://github.com/bengous/hookjson">hookjson</a>                      Wrap any command, emit NDJSON for AI agents
 
-$ bengous ls experiments      # things I built to learn
+<b>$ bengous ls experiments</b>      # things I built to learn
 <a href="https://github.com/bengous/ai-context-layers">ai-context-layers</a>             Layered context engineering for AI assistants <!-- profile: priority=100 -->
 <a href="https://github.com/bengous/docaudit">docaudit</a>                      Audit documents with Claude, rewrite as PDF <!-- profile: priority=90 -->
 <a href="https://bengous.github.io/cap/">cap</a>                           Weekend experiment; <a href="https://github.com/bengous/cap">build repo</a> <!-- profile: priority=30 -->
@@ -62,7 +73,7 @@ $ bengous ls experiments      # things I built to learn
 <a href="https://github.com/bengous/rust-game-of-conway">rust-game-of-conway</a>           Conway's Game of Life with Piston rendering
 <a href="https://github.com/bengous/csv-merge-edu">csv-merge-edu</a>                 Merge French school CSVs + Maps links
 
-$ bengous ls school           # things I built because I had to
+<b>$ bengous ls school</b>           # things I built because I had to
 <a href="https://github.com/bengous/MindstormLeagueDecision">MindstormLeagueDecision</a>       PDDL planner for Lego Mindstorm robot
 <a href="https://github.com/bengous/introdistributedsystems">introdistributedsystems</a>       RMI-based distributed chat service
 <a href="https://github.com/bengous/tli-downloader">tli-downloader</a>                JavaFX concurrent file downloader
@@ -81,21 +92,21 @@ $ bengous ls school           # things I built because I had to
 <a href="https://github.com/bengous/AdventOfCode2023">AdventOfCode2023</a>              AoC 2023 solutions, days 1-12 <!-- profile: priority=-110 -->
 <a href="https://github.com/bengous/AdventOfCode2022">AdventOfCode2022</a>              AoC 2022 solutions, days 1-4 <!-- profile: priority=-120 -->
 
-$ bengous ls collabs          # things I built for others
+<b>$ bengous ls collabs</b>          # things I built for others
 <a href="https://domocuisto.com">DomoCuisto</a>                    Astro site on Cloudflare, migrated off Shopify <!-- profile: priority=100 -->
 <a href="https://bengous.github.io/petit-manege-classe/">petit-manege-classe</a>           Classroom randomizer and balanced team builder
 <a href="https://github.com/bengous/jukebox">jukebox</a>                       Next.js + Strapi with Spotify integration
 <a href="https://guigpap.github.io/CV/">guigpap/CV</a>                    Terminal-style portfolio, design + code
 <a href="https://benjamin-rouanet.github.io/mon-cv/">benjamin-rouanet/mon-cv</a>       Horology CV site + linked educational game
 
-$ bengous ls --private
+<b>$ bengous ls --private</b>
 ls: permission denied
 ...and many, many more: client sites, internal tools,
 and experiments that are not public yet.
 
-$ bengous --links
+<b>$ bengous --links</b>
 <a href="https://bengous.github.io/IdeAs/">journal</a>                       bengous.github.io/IdeAs
 <a href="https://www.linkedin.com/in/augustinbengolea/" target="_blank" rel="noopener noreferrer">linkedin</a>                      linkedin.com/in/augustinbengolea
 
-$ █
+<b>$</b> <picture><source media="(prefers-color-scheme: dark)" srcset="assets/cursor-dark.svg"><img src="assets/cursor-light.svg" align="absmiddle" alt="cursor"></picture>
 </pre>

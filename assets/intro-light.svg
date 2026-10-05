@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="79" viewBox="0 0 580 79" role="img" aria-label="$ bengous --about: Full-stack engineer. France. I work with coding agents and build the context, tooling and guardrails that keep control of the result.">
+<style>
+text { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; font-size: 13.6px; fill: #1f2328; }
+.cmd { font-weight: 600; }
+.typing { transform: translateX(122.4px); opacity: 0; animation: type 0.9s steps(15, end) 0.5s both, hide 1ms 1.75s both; }
+.output { animation: show 1ms 1.75s both; }
+@keyframes type { from { transform: translateX(0); } to { transform: translateX(122.4px); } }
+@keyframes hide { from { opacity: 1; } to { opacity: 0; } }
+@keyframes show { from { opacity: 0; } to { opacity: 1; } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<text class="cmd" x="0" y="14.6" textLength="138.72" lengthAdjust="spacing" xml:space="preserve">$ bengous --about</text>
+<g class="typing"><rect x="16.32" y="0" width="130.56" height="19.72" fill="#f6f8fa"/>
+<rect x="16.32" y="3.99" width="8.16" height="13.6" fill="#1f2328"/></g>
+<g class="output"><text x="0" y="34.32" xml:space="preserve">Full-stack engineer. France.</text><text x="0" y="54.04" xml:space="preserve">I work with coding agents and build the context, tooling and guardrails</text><text x="0" y="73.76" xml:space="preserve">that keep control of the result.</text></g>
+</svg>
