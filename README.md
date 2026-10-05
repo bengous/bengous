@@ -1,13 +1,5 @@
 <pre>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/intro-dark.svg"><img src="assets/intro-light.svg" alt="$ bengous --about: Full-stack engineer. France. I work with coding agents and build the context, tooling and guardrails that keep control of the result."></picture>
-
-<b>$ bengous --lately</b>
-Gateways and CLIs around the agent loop: hooks, context routing,
-completion alerts. Rust case studies and open data web apps on the side.
-
-<b>$ bengous --stack</b>
-TypeScript, Rust, Go, Python -- whatever fits the problem.
-Java and Kotlin on regulated-industry backends.
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/intro-dark.svg"><img src="assets/intro-light.svg" alt="$ bengous --about: Full-stack engineer. France. I work with coding agents and build the context, tooling and guardrails that keep control of the result. $ bengous --lately: Gateways and CLIs around the agent loop: hooks, context routing, completion alerts. Rust case studies and open data web apps on the side. $ bengous --stack: TypeScript, Rust, Go, Python -- whatever fits the problem. Java and Kotlin on regulated-industry backends."></picture>
 
 <b>$ bengous log --since=30.days</b>
 Oct  5  <a href="https://bengous.github.io/d2-lab/">d2-lab</a>                        IAS calculator for Diablo II: Resurrected
