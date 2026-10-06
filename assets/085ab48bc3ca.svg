@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="547" height="20" viewBox="0 0 547 20" role="img" aria-label="claude-hooks                  Hooks for Claude Code event lifecycle">
+<style>
+text { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; font-size: 13.6px; white-space: pre; }
+.r { animation: show 1ms 2.324s both; }
+@keyframes show { from { opacity: 0; } to { opacity: 1; } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<g class="r"><text x="0" y="14.6" fill="#1f2328" textLength="546.72" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#0969da" text-decoration="underline">claude-hooks</tspan>                  Hooks for Claude Code event lifecycle</text></g>
+</svg>

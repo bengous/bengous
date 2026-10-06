@@ -1,104 +1,115 @@
 <pre>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/intro-dark.svg"><img src="assets/intro-light.svg" alt="$ bengous --about: Full-stack engineer. France. I work with coding agents and build the context, tooling and guardrails that keep control of the result. $ bengous --lately: Gateways and CLIs around the agent loop: hooks, context routing, completion alerts. Rust case studies and open data web apps on the side. $ bengous --stack: TypeScript, Rust, Go, Python -- whatever fits the problem. Java and Kotlin on regulated-industry backends."></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/70b493fd342c.svg"><img src="assets/fd000e5821eb.svg" align="top" alt="$ bengous --about"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/b069529fb36b.svg"><img src="assets/3824907b3c3a.svg" align="top" alt="Full-stack engineer. France."></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/b1068992f501.svg"><img src="assets/bbf26895c030.svg" align="top" alt="I work with coding agents and build the context, tooling and guardrails"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/2367b137a127.svg"><img src="assets/4fe334bcec24.svg" align="top" alt="that keep control of the result."></picture>
 
-<b>$ bengous log --since=30.days</b>
-Oct  5  <a href="https://bengous.github.io/d2-lab/">d2-lab</a>                        IAS calculator for Diablo II: Resurrected
-Oct  5  <a href="https://github.com/bengous/adv360">adv360</a>                        Native Linux editor for the Kinesis Advantage360
-Oct  2  <a href="https://github.com/bengous/claude-code-plugins">claude-code-plugins</a>           Opinionated workflow plugins for Claude Code
-Oct  2  <a href="https://github.com/bengous/agentcraft">agentcraft</a>                    Voxel sandbox in Rust, built release after release by differe…
-Sep 29  <a href="https://github.com/bengous/circuito-combinacion">circuito-combinacion</a>          Few-prompt circuit demo for a veteran electrician
-Sep 29  <a href="https://github.com/bengous/caveats">caveats</a>                       Find hidden text in a CV, judge its intent, hand it to a human
-Sep 29  <a href="https://github.com/bengous/scripts-and-snippets">scripts-and-snippets</a>          Small standalone scripts, one problem each
-Sep 26  <a href="https://github.com/bengous/agents-skills">agents-skills</a>                 Custom skills for Claude Code agents
-Sep 25  <a href="https://bengous.github.io/petit-manege-classe/">petit-manege-classe</a>           Classroom randomizer and balanced team builder
-Sep 21  <a href="https://bengous.github.io/git-image-par-image/">git-image-par-image</a>           Git explained frame by frame, in French
-Sep 12  <a href="https://github.com/bengous/agent-notifier-omarchy">agent-notifier-omarchy</a>        Finished-agent alerts and bar widget for Omarchy
-Sep  6  <a href="https://bengous.github.io/pepin/">pepin</a>                         A seed walks a valley of pink pyjama fibres
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/238462e80283.svg"><img src="assets/ea688cc558fd.svg" align="top" alt="$ bengous --lately"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/bb624f21eee6.svg"><img src="assets/1d74c722682f.svg" align="top" alt="Gateways and CLIs around the agent loop: hooks, context routing,"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/4268cbe18a38.svg"><img src="assets/d7bc2b3e7ec7.svg" align="top" alt="completion alerts. Rust case studies and open data web apps on the side."></picture>
 
-<b>$ bengous ls tools</b>            # things I built to use
-<a href="https://github.com/bengous/claude-code-plugins">claude-code-plugins</a>           Opinionated workflow plugins for Claude Code <!-- profile: priority=100 -->
-<a href="https://github.com/bengous/vex">vex</a>                           VLM-powered visual analysis of web layouts <!-- profile: priority=80 -->
-<a href="https://github.com/bengous/agents-skills">agents-skills</a>                 Custom skills for Claude Code agents <!-- profile: priority=70 -->
-<a href="https://github.com/bengous/wireframer">wireframer</a>                    Inject into pages, export DOM as wireframe <!-- profile: priority=60 -->
-<a href="https://github.com/bengous/hex-validator">hex-validator</a>                 Architecture validator for hexagonal TypeScript <!-- profile: priority=50 -->
-<a href="https://github.com/bengous/custom-scripts">custom-scripts</a>                Venv and shell helpers for dev machines <!-- profile: priority=40 -->
-<a href="https://github.com/bengous/adv360">adv360</a>                        Native Linux editor for the Kinesis Advantage360
-<a href="https://github.com/bengous/agent-notifier-omarchy">agent-notifier-omarchy</a>        Finished-agent alerts and bar widget for Omarchy
-<a href="https://github.com/bengous/scripts-and-snippets">scripts-and-snippets</a>          Small standalone scripts, one problem each
-<a href="https://github.com/bengous/caveats">caveats</a>                       Find hidden text in a CV, judge its intent, hand it to a human
-<a href="https://github.com/bengous/kitsmith">kitsmith</a>                      Opinionated Bun project scaffolder (archived, lives on in runweaver)
-<a href="https://github.com/bengous/codex-path-rules">codex-path-rules</a>              Load path-scoped rules into Codex only when relevant
-<a href="https://github.com/bengous/npm-supply-exposure">npm-supply-exposure</a>           Scan for traces of compromised npm packages
-<a href="https://github.com/bengous/ccgateways">ccgateways</a>                    Point Claude Code at any Anthropic-compatible gateway
-<a href="https://github.com/bengous/runweaver">runweaver</a>                     Declare quality tooling once for agent hooks, Git hooks, CI, and CLIs
-<a href="https://github.com/bengous/multireports-end2end-helper">multireports-end2end-helper</a>   Java 21 E2E test framework, TestNG + Allure
-<a href="https://github.com/bengous/agent-visitor">agent-visitor</a>                 Walk a codebase, emit per-directory YAML
-<a href="https://github.com/bengous/prompt-context-router">prompt-context-router</a>         Route prompt keywords to project context files, via hooks
-<a href="https://github.com/bengous/claude-to-codex-session">claude-to-codex-session</a>       Import Claude Code transcripts into Codex sessions (archived)
-<a href="https://github.com/bengous/productivity-tracking">productivity-tracking</a>         Git-backed task manager with calendar sync
-<a href="https://github.com/bengous/whisperer">whisperer</a>                     Local-first audio and video transcription with Whisper
-<a href="https://github.com/bengous/agentlink">agentlink</a>                     Audit and migrate agent instruction files across repos
-<a href="https://github.com/bengous/bookmarker">bookmarker</a>                    Compare and sync bookmarks across browsers
-<a href="https://github.com/bengous/claude-hooks">claude-hooks</a>                  Hooks for Claude Code event lifecycle
-<a href="https://github.com/bengous/draft-flow-refine">draft-flow-refine</a>             Photoshoot draft review workflow UI (archived)
-<a href="https://github.com/bengous/hookjson">hookjson</a>                      Wrap any command, emit NDJSON for AI agents
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/8da02fa4164c.svg"><img src="assets/34f72e9c3fa2.svg" align="top" alt="$ bengous --stack"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/a226e76ad164.svg"><img src="assets/662e53956585.svg" align="top" alt="TypeScript, Rust, Go, Python -- whatever fits the problem."></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/f001e0d7ca13.svg"><img src="assets/8c8185a92a0f.svg" align="top" alt="Java and Kotlin on regulated-industry backends."></picture>
 
-<b>$ bengous ls experiments</b>      # things I built to learn
-<a href="https://github.com/bengous/ai-context-layers">ai-context-layers</a>             Layered context engineering for AI assistants <!-- profile: priority=100 -->
-<a href="https://github.com/bengous/docaudit">docaudit</a>                      Audit documents with Claude, rewrite as PDF <!-- profile: priority=90 -->
-<a href="https://bengous.github.io/cap/">cap</a>                           Weekend experiment; <a href="https://github.com/bengous/cap">build repo</a> <!-- profile: priority=30 -->
-<a href="https://github.com/bengous/circuito-combinacion">circuito-combinacion</a>          Few-prompt circuit demo for a veteran electrician
-<a href="https://github.com/bengous/agentcraft">agentcraft</a>                    Voxel sandbox in Rust, built release after release by different AI models
-<a href="https://bengous.github.io/d2-lab/">d2-lab</a>                        IAS calculator for Diablo II: Resurrected
-<a href="https://github.com/bengous/d2r-manager">d2r-manager</a>                   Rust case study: Diablo II save migration and stash merges
-<a href="https://bengous.github.io/git-image-par-image/">git-image-par-image</a>           Git explained frame by frame, in French
-<a href="https://github.com/bengous/ambiens">ambiens</a>                       Tap water quality by commune, from official checks; <a href="https://bengous.github.io/ambiens/">demo</a>
-<a href="https://github.com/bengous/effect-visual-tutor">effect-visual-tutor</a>           Interactive visual lessons for code and architecture
-<a href="https://bengous.github.io/pepin/">pepin</a>                         A seed walks a valley of pink pyjama fibres
-<a href="https://github.com/bengous/explorador-genealogia-bengolea">explorador-genealogia</a>         Interactive family tree explorer, in Spanish
-<a href="https://github.com/bengous/potabilis">potabilis</a>                     Local Bun prototype behind ambiens, parses official thresholds
-<a href="https://github.com/bengous/go-htmx-todo">go-htmx-todo</a>                  Todo app with Go stdlib, htmx, and SQLite
-<a href="https://github.com/bengous/pharmock">pharmock</a>                      Static pharmacy site (Meylan, France)
-<a href="https://github.com/bengous/rust-buildsaver">rust-buildsaver</a>               Copy build artifacts to versioned paths
-<a href="https://github.com/bengous/nextjs-galerie-template">nextjs-galerie-template</a>       EXIF photo blog with upload and tagging
-<a href="https://github.com/bengous/go-httpclient">go-httpclient</a>                 Web HTTP client with SQLite persistence
-<a href="https://github.com/bengous/rust-game-of-conway">rust-game-of-conway</a>           Conway's Game of Life with Piston rendering
-<a href="https://github.com/bengous/csv-merge-edu">csv-merge-edu</a>                 Merge French school CSVs + Maps links
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/cc3c5185218f.svg"><img src="assets/a191a0b0896c.svg" align="top" alt="$ bengous log --since=30.days"></picture>
+<a href="https://bengous.github.io/d2-lab/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/60d0e5ca2948.svg"><img src="assets/4a170330b799.svg" align="top" alt="Oct  5d2-lab                        IAS calculator for Diablo II: Resurrected"></picture></a>
+<a href="https://github.com/bengous/adv360"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/470cbf7d5254.svg"><img src="assets/0b6ae5f8fcac.svg" align="top" alt="Oct  5adv360                        Native Linux editor for the Kinesis Advantage360"></picture></a>
+<a href="https://github.com/bengous/claude-code-plugins"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/a06ade4a5c88.svg"><img src="assets/2f55bc5fd5d8.svg" align="top" alt="Oct  2claude-code-plugins           Opinionated workflow plugins for Claude Code"></picture></a>
+<a href="https://github.com/bengous/agentcraft"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/beb2d54497f5.svg"><img src="assets/1376d1c70a8e.svg" align="top" alt="Oct  2agentcraft                    Voxel sandbox in Rust, built release after release by differe…"></picture></a>
+<a href="https://github.com/bengous/circuito-combinacion"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/11fa98dc7132.svg"><img src="assets/5810b96f9099.svg" align="top" alt="Sep 29circuito-combinacion          Few-prompt circuit demo for a veteran electrician"></picture></a>
+<a href="https://github.com/bengous/caveats"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/941b8edd1bee.svg"><img src="assets/157168b27619.svg" align="top" alt="Sep 29caveats                       Find hidden text in a CV, judge its intent, hand it to a human"></picture></a>
+<a href="https://github.com/bengous/scripts-and-snippets"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/e6073434c0a9.svg"><img src="assets/7260944cf31d.svg" align="top" alt="Sep 29scripts-and-snippets          Small standalone scripts, one problem each"></picture></a>
+<a href="https://github.com/bengous/agents-skills"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/6c0070f013ca.svg"><img src="assets/e9e336847dec.svg" align="top" alt="Sep 26agents-skills                 Custom skills for Claude Code agents"></picture></a>
+<a href="https://bengous.github.io/petit-manege-classe/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/fff62d8720ba.svg"><img src="assets/a219844593b7.svg" align="top" alt="Sep 25petit-manege-classe           Classroom randomizer and balanced team builder"></picture></a>
+<a href="https://bengous.github.io/git-image-par-image/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/e6f048467ddd.svg"><img src="assets/56a49917fd43.svg" align="top" alt="Sep 21git-image-par-image           Git explained frame by frame, in French"></picture></a>
+<a href="https://github.com/bengous/agent-notifier-omarchy"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/16cbdcea9ad1.svg"><img src="assets/57ad44f711c6.svg" align="top" alt="Sep 12agent-notifier-omarchy        Finished-agent alerts and bar widget for Omarchy"></picture></a>
+<a href="https://bengous.github.io/pepin/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/a98ab12fbaf0.svg"><img src="assets/1e607eb9bbb0.svg" align="top" alt="Sep  6pepin                         A seed walks a valley of pink pyjama fibres"></picture></a>
 
-<b>$ bengous ls school</b>           # things I built because I had to
-<a href="https://github.com/bengous/MindstormLeagueDecision">MindstormLeagueDecision</a>       PDDL planner for Lego Mindstorm robot
-<a href="https://github.com/bengous/introdistributedsystems">introdistributedsystems</a>       RMI-based distributed chat service
-<a href="https://github.com/bengous/tli-downloader">tli-downloader</a>                JavaFX concurrent file downloader
-<a href="https://github.com/bengous/cosmopolitan">cosmopolitan</a>                  MinCaml-to-ARM compiler, full pipeline
-<a href="https://github.com/bengous/SocialBuddies">SocialBuddies</a>                 Distributed social network over Java RMI
-<a href="https://github.com/bengous/mincaml-compiler">mincaml-compiler</a>              MinCaml compiler frontend: parser, visitors
-<a href="https://github.com/bengous/SabikeMockups">SabikeMockups</a>                 Angular Material UI mockups for Sabike
-<a href="https://github.com/bengous/Sabike">Sabike</a>                        Bike e-commerce (JHipster/Spring/Angular)
-<a href="https://github.com/bengous/SocialBuddiesMaven">SocialBuddiesMaven</a>            SocialBuddies repackaged with Maven
-<a href="https://github.com/bengous/IonicFirebaseToutdoux">IonicFirebaseToutdoux</a>         Todo list app with Firebase sync
-<a href="https://github.com/bengous/DevOpsPandasS">DevOpsPandasS</a>                 Maven + CircleCI pipeline scaffold
-<a href="https://github.com/bengous/Javaneeese">Javaneeese</a>                    Distributed shared objects with locking
-<a href="https://github.com/bengous/IDS">IDS</a>                           Socket echo server and calculator exercises
-<a href="https://github.com/bengous/patia">patia</a>                         JavaFX point stream visualizer
-<a href="https://github.com/bengous/prime-courses">prime-courses</a>                 Daily kata generator for algorithms <!-- profile: priority=-100 -->
-<a href="https://github.com/bengous/AdventOfCode2023">AdventOfCode2023</a>              AoC 2023 solutions, days 1-12 <!-- profile: priority=-110 -->
-<a href="https://github.com/bengous/AdventOfCode2022">AdventOfCode2022</a>              AoC 2022 solutions, days 1-4 <!-- profile: priority=-120 -->
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/0272f16a7325.svg"><img src="assets/713808dd5758.svg" align="top" alt="$ bengous ls tools            # things I built to use"></picture>
+<a href="https://github.com/bengous/claude-code-plugins"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/2d968817fca7.svg"><img src="assets/973fe105a4a6.svg" align="top" alt="claude-code-plugins           Opinionated workflow plugins for Claude Code"></picture></a>
+<a href="https://github.com/bengous/vex"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/6d5a9fe30c41.svg"><img src="assets/635d91015a53.svg" align="top" alt="vex                           VLM-powered visual analysis of web layouts"></picture></a>
+<a href="https://github.com/bengous/agents-skills"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/26ff8e111416.svg"><img src="assets/e63de056f54f.svg" align="top" alt="agents-skills                 Custom skills for Claude Code agents"></picture></a>
+<a href="https://github.com/bengous/wireframer"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cdfe72d827c7.svg"><img src="assets/2ca6a8ce0c08.svg" align="top" alt="wireframer                    Inject into pages, export DOM as wireframe"></picture></a>
+<a href="https://github.com/bengous/hex-validator"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/e6e42f4c8086.svg"><img src="assets/87e1c0cc676b.svg" align="top" alt="hex-validator                 Architecture validator for hexagonal TypeScript"></picture></a>
+<a href="https://github.com/bengous/custom-scripts"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/fc1490c501f8.svg"><img src="assets/0c11c5fb3fd1.svg" align="top" alt="custom-scripts                Venv and shell helpers for dev machines"></picture></a>
+<a href="https://github.com/bengous/adv360"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/99105cb94ccc.svg"><img src="assets/64b6a7dea67b.svg" align="top" alt="adv360                        Native Linux editor for the Kinesis Advantage360"></picture></a>
+<a href="https://github.com/bengous/agent-notifier-omarchy"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/adf4562aefe8.svg"><img src="assets/3a0946ed615b.svg" align="top" alt="agent-notifier-omarchy        Finished-agent alerts and bar widget for Omarchy"></picture></a>
+<a href="https://github.com/bengous/scripts-and-snippets"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/8aefe93685a9.svg"><img src="assets/bb86379d6801.svg" align="top" alt="scripts-and-snippets          Small standalone scripts, one problem each"></picture></a>
+<a href="https://github.com/bengous/caveats"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/e301dc16cc14.svg"><img src="assets/33bdd784fab7.svg" align="top" alt="caveats                       Find hidden text in a CV, judge its intent, hand it to a human"></picture></a>
+<a href="https://github.com/bengous/kitsmith"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/f09b863f1a0f.svg"><img src="assets/82559961d413.svg" align="top" alt="kitsmith                      Opinionated Bun project scaffolder (archived, lives on in runweaver)"></picture></a>
+<a href="https://github.com/bengous/codex-path-rules"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/de452ec48460.svg"><img src="assets/9870a2ffb390.svg" align="top" alt="codex-path-rules              Load path-scoped rules into Codex only when relevant"></picture></a>
+<a href="https://github.com/bengous/npm-supply-exposure"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ab630e41be9e.svg"><img src="assets/43cc85848204.svg" align="top" alt="npm-supply-exposure           Scan for traces of compromised npm packages"></picture></a>
+<a href="https://github.com/bengous/ccgateways"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/6afc918d2ee8.svg"><img src="assets/83915cb0a455.svg" align="top" alt="ccgateways                    Point Claude Code at any Anthropic-compatible gateway"></picture></a>
+<a href="https://github.com/bengous/runweaver"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/84885fa1d6d4.svg"><img src="assets/d79c3ecea79f.svg" align="top" alt="runweaver                     Declare quality tooling once for agent hooks, Git hooks, CI, and CLIs"></picture></a>
+<a href="https://github.com/bengous/multireports-end2end-helper"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/534120f1a43e.svg"><img src="assets/3cba605ae715.svg" align="top" alt="multireports-end2end-helper   Java 21 E2E test framework, TestNG + Allure"></picture></a>
+<a href="https://github.com/bengous/agent-visitor"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/8b72c15f2e16.svg"><img src="assets/e99d148ba183.svg" align="top" alt="agent-visitor                 Walk a codebase, emit per-directory YAML"></picture></a>
+<a href="https://github.com/bengous/prompt-context-router"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/76698f368a5e.svg"><img src="assets/9c8f3319af56.svg" align="top" alt="prompt-context-router         Route prompt keywords to project context files, via hooks"></picture></a>
+<a href="https://github.com/bengous/claude-to-codex-session"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/335685e2b011.svg"><img src="assets/41727ce03298.svg" align="top" alt="claude-to-codex-session       Import Claude Code transcripts into Codex sessions (archived)"></picture></a>
+<a href="https://github.com/bengous/productivity-tracking"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/854ab3c02234.svg"><img src="assets/9ecb307e6de5.svg" align="top" alt="productivity-tracking         Git-backed task manager with calendar sync"></picture></a>
+<a href="https://github.com/bengous/whisperer"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/866e609d765f.svg"><img src="assets/42f73ff12b00.svg" align="top" alt="whisperer                     Local-first audio and video transcription with Whisper"></picture></a>
+<a href="https://github.com/bengous/agentlink"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/a40d0af3769d.svg"><img src="assets/f0d8ac0b3c28.svg" align="top" alt="agentlink                     Audit and migrate agent instruction files across repos"></picture></a>
+<a href="https://github.com/bengous/bookmarker"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/f51c7dbf8287.svg"><img src="assets/de3441bd5e4b.svg" align="top" alt="bookmarker                    Compare and sync bookmarks across browsers"></picture></a>
+<a href="https://github.com/bengous/claude-hooks"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/7237530b6c29.svg"><img src="assets/085ab48bc3ca.svg" align="top" alt="claude-hooks                  Hooks for Claude Code event lifecycle"></picture></a>
+<a href="https://github.com/bengous/draft-flow-refine"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/472d9953b6c5.svg"><img src="assets/b6eaefa00a6b.svg" align="top" alt="draft-flow-refine             Photoshoot draft review workflow UI (archived)"></picture></a>
+<a href="https://github.com/bengous/hookjson"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/0d8640b9addc.svg"><img src="assets/7c9d72f338b3.svg" align="top" alt="hookjson                      Wrap any command, emit NDJSON for AI agents"></picture></a>
 
-<b>$ bengous ls collabs</b>          # things I built for others
-<a href="https://domocuisto.com">DomoCuisto</a>                    Astro site on Cloudflare, migrated off Shopify <!-- profile: priority=100 -->
-<a href="https://bengous.github.io/petit-manege-classe/">petit-manege-classe</a>           Classroom randomizer and balanced team builder
-<a href="https://github.com/bengous/jukebox">jukebox</a>                       Next.js + Strapi with Spotify integration
-<a href="https://guigpap.github.io/CV/">guigpap/CV</a>                    Terminal-style portfolio, design + code
-<a href="https://benjamin-rouanet.github.io/mon-cv/">benjamin-rouanet/mon-cv</a>       Horology CV site + linked educational game
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dc0974e917b5.svg"><img src="assets/add02d9a9c3c.svg" align="top" alt="$ bengous ls experiments      # things I built to learn"></picture>
+<a href="https://github.com/bengous/ai-context-layers"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/b7609fd9b2d3.svg"><img src="assets/0a8188544525.svg" align="top" alt="ai-context-layers             Layered context engineering for AI assistants"></picture></a>
+<a href="https://github.com/bengous/docaudit"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/b1189c657186.svg"><img src="assets/a558036f8ec3.svg" align="top" alt="docaudit                      Audit documents with Claude, rewrite as PDF"></picture></a>
+<a href="https://bengous.github.io/cap/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/efccda21b83d.svg"><img src="assets/796cfb4e789f.svg" align="top" alt="cap                           Weekend experiment"></picture></a>
+<a href="https://github.com/bengous/circuito-combinacion"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/14370e5e8479.svg"><img src="assets/8564bf7c2e33.svg" align="top" alt="circuito-combinacion          Few-prompt circuit demo for a veteran electrician"></picture></a>
+<a href="https://github.com/bengous/agentcraft"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/d8da7a71e2ea.svg"><img src="assets/57807d115964.svg" align="top" alt="agentcraft                    Voxel sandbox in Rust, built release after release by different AI models"></picture></a>
+<a href="https://bengous.github.io/d2-lab/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/185bf75e3738.svg"><img src="assets/f593c8c10c47.svg" align="top" alt="d2-lab                        IAS calculator for Diablo II: Resurrected"></picture></a>
+<a href="https://github.com/bengous/d2r-manager"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/f2636b667e6d.svg"><img src="assets/8da532f706d7.svg" align="top" alt="d2r-manager                   Rust case study: Diablo II save migration and stash merges"></picture></a>
+<a href="https://bengous.github.io/git-image-par-image/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/6895e004aecf.svg"><img src="assets/5a6722b21ff7.svg" align="top" alt="git-image-par-image           Git explained frame by frame, in French"></picture></a>
+<a href="https://github.com/bengous/ambiens"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/481f8550f5ff.svg"><img src="assets/3c880645db30.svg" align="top" alt="ambiens                       Tap water quality by commune, from official checks"></picture></a>
+<a href="https://github.com/bengous/effect-visual-tutor"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/13caf6fd0845.svg"><img src="assets/cd0eb0105a64.svg" align="top" alt="effect-visual-tutor           Interactive visual lessons for code and architecture"></picture></a>
+<a href="https://bengous.github.io/pepin/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/e5d201c9a4ad.svg"><img src="assets/67a1428adc1f.svg" align="top" alt="pepin                         A seed walks a valley of pink pyjama fibres"></picture></a>
+<a href="https://github.com/bengous/explorador-genealogia-bengolea"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/44d6de28cbb0.svg"><img src="assets/c3db93af80bd.svg" align="top" alt="explorador-genealogia         Interactive family tree explorer, in Spanish"></picture></a>
+<a href="https://github.com/bengous/potabilis"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/257d08ef8fa2.svg"><img src="assets/1adc825acbbd.svg" align="top" alt="potabilis                     Local Bun prototype behind ambiens, parses official thresholds"></picture></a>
+<a href="https://github.com/bengous/go-htmx-todo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/0c262a4bc581.svg"><img src="assets/65892216389d.svg" align="top" alt="go-htmx-todo                  Todo app with Go stdlib, htmx, and SQLite"></picture></a>
+<a href="https://github.com/bengous/pharmock"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/f564920dc07e.svg"><img src="assets/d957c816d1db.svg" align="top" alt="pharmock                      Static pharmacy site (Meylan, France)"></picture></a>
+<a href="https://github.com/bengous/rust-buildsaver"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/27e732fd082b.svg"><img src="assets/75e7ab7087dc.svg" align="top" alt="rust-buildsaver               Copy build artifacts to versioned paths"></picture></a>
+<a href="https://github.com/bengous/nextjs-galerie-template"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/684bc9bee10f.svg"><img src="assets/001e2309c285.svg" align="top" alt="nextjs-galerie-template       EXIF photo blog with upload and tagging"></picture></a>
+<a href="https://github.com/bengous/go-httpclient"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/1b4a7ffaaf0a.svg"><img src="assets/79fc02d765d4.svg" align="top" alt="go-httpclient                 Web HTTP client with SQLite persistence"></picture></a>
+<a href="https://github.com/bengous/rust-game-of-conway"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/080e695f7e07.svg"><img src="assets/da96951fc819.svg" align="top" alt="rust-game-of-conway           Conway's Game of Life with Piston rendering"></picture></a>
+<a href="https://github.com/bengous/csv-merge-edu"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/06b142c39fa2.svg"><img src="assets/7e596eab7ede.svg" align="top" alt="csv-merge-edu                 Merge French school CSVs + Maps links"></picture></a>
 
-<b>$ bengous ls --private</b>
-ls: permission denied
-...and many, many more: client sites, internal tools,
-and experiments that are not public yet.
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/80a5177aaf33.svg"><img src="assets/138a15fdeed5.svg" align="top" alt="$ bengous ls school           # things I built because I had to"></picture>
+<a href="https://github.com/bengous/MindstormLeagueDecision"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/9758e7833925.svg"><img src="assets/49461ea75057.svg" align="top" alt="MindstormLeagueDecision       PDDL planner for Lego Mindstorm robot"></picture></a>
+<a href="https://github.com/bengous/introdistributedsystems"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/7ddc3a5ad30f.svg"><img src="assets/678f42830ccf.svg" align="top" alt="introdistributedsystems       RMI-based distributed chat service"></picture></a>
+<a href="https://github.com/bengous/tli-downloader"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/3b664163cf00.svg"><img src="assets/be542f627878.svg" align="top" alt="tli-downloader                JavaFX concurrent file downloader"></picture></a>
+<a href="https://github.com/bengous/cosmopolitan"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/916a28d70945.svg"><img src="assets/9dfa3f2ef0ae.svg" align="top" alt="cosmopolitan                  MinCaml-to-ARM compiler, full pipeline"></picture></a>
+<a href="https://github.com/bengous/SocialBuddies"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/0435f420f3ab.svg"><img src="assets/875b4f8f53c3.svg" align="top" alt="SocialBuddies                 Distributed social network over Java RMI"></picture></a>
+<a href="https://github.com/bengous/mincaml-compiler"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/2c54076a06cb.svg"><img src="assets/ccb2465aa3fd.svg" align="top" alt="mincaml-compiler              MinCaml compiler frontend: parser, visitors"></picture></a>
+<a href="https://github.com/bengous/SabikeMockups"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/51beb34d5f62.svg"><img src="assets/d36f01b1b1a0.svg" align="top" alt="SabikeMockups                 Angular Material UI mockups for Sabike"></picture></a>
+<a href="https://github.com/bengous/Sabike"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/05c2a9a192e4.svg"><img src="assets/3d92d66c69cc.svg" align="top" alt="Sabike                        Bike e-commerce (JHipster/Spring/Angular)"></picture></a>
+<a href="https://github.com/bengous/SocialBuddiesMaven"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/f892fc5bbcde.svg"><img src="assets/86897d443a34.svg" align="top" alt="SocialBuddiesMaven            SocialBuddies repackaged with Maven"></picture></a>
+<a href="https://github.com/bengous/IonicFirebaseToutdoux"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/682d583913c0.svg"><img src="assets/eb595fbc2eb7.svg" align="top" alt="IonicFirebaseToutdoux         Todo list app with Firebase sync"></picture></a>
+<a href="https://github.com/bengous/DevOpsPandasS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/505282f338e7.svg"><img src="assets/164a8b357e4b.svg" align="top" alt="DevOpsPandasS                 Maven + CircleCI pipeline scaffold"></picture></a>
+<a href="https://github.com/bengous/Javaneeese"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/5a666ccd452b.svg"><img src="assets/d5e9e8c29d6f.svg" align="top" alt="Javaneeese                    Distributed shared objects with locking"></picture></a>
+<a href="https://github.com/bengous/IDS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/e19001c5baca.svg"><img src="assets/a495b14f37fd.svg" align="top" alt="IDS                           Socket echo server and calculator exercises"></picture></a>
+<a href="https://github.com/bengous/patia"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/798da5135319.svg"><img src="assets/33272a82fc21.svg" align="top" alt="patia                         JavaFX point stream visualizer"></picture></a>
+<a href="https://github.com/bengous/prime-courses"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/390dfd26f35b.svg"><img src="assets/acb000c18dda.svg" align="top" alt="prime-courses                 Daily kata generator for algorithms"></picture></a>
+<a href="https://github.com/bengous/AdventOfCode2023"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/38f0b3295ac7.svg"><img src="assets/b161bed729cf.svg" align="top" alt="AdventOfCode2023              AoC 2023 solutions, days 1-12"></picture></a>
+<a href="https://github.com/bengous/AdventOfCode2022"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/9b44b9b44a9f.svg"><img src="assets/858c613ebc6d.svg" align="top" alt="AdventOfCode2022              AoC 2022 solutions, days 1-4"></picture></a>
 
-<b>$ bengous --links</b>
-<a href="https://bengous.github.io/IdeAs/">journal</a>                       bengous.github.io/IdeAs
-<a href="https://www.linkedin.com/in/augustinbengolea/" target="_blank" rel="noopener noreferrer">linkedin</a>                      linkedin.com/in/augustinbengolea
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/60519e3fcaba.svg"><img src="assets/e9e96129faec.svg" align="top" alt="$ bengous ls collabs          # things I built for others"></picture>
+<a href="https://domocuisto.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/380b330e5a5a.svg"><img src="assets/56d9301e1e75.svg" align="top" alt="DomoCuisto                    Astro site on Cloudflare, migrated off Shopify"></picture></a>
+<a href="https://bengous.github.io/petit-manege-classe/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/bb3414c4e304.svg"><img src="assets/4e40cf68b1b6.svg" align="top" alt="petit-manege-classe           Classroom randomizer and balanced team builder"></picture></a>
+<a href="https://github.com/bengous/jukebox"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/0dc243cc1523.svg"><img src="assets/275abbe38c55.svg" align="top" alt="jukebox                       Next.js + Strapi with Spotify integration"></picture></a>
+<a href="https://guigpap.github.io/CV/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/7dbac2e2e7e8.svg"><img src="assets/3a30fea03ba4.svg" align="top" alt="guigpap/CV                    Terminal-style portfolio, design + code"></picture></a>
+<a href="https://benjamin-rouanet.github.io/mon-cv/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/a8155be7d33d.svg"><img src="assets/7898dcc7f170.svg" align="top" alt="benjamin-rouanet/mon-cv       Horology CV site + linked educational game"></picture></a>
 
-<b>$</b> <picture><source media="(prefers-color-scheme: dark)" srcset="assets/cursor-dark.svg"><img src="assets/cursor-light.svg" align="absmiddle" alt="cursor"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/66bbebaa13a1.svg"><img src="assets/1ebd92706bce.svg" align="top" alt="$ bengous ls --private"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/f61a54367de0.svg"><img src="assets/4229ea81314d.svg" align="top" alt="ls: permission denied"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/7c94ffb029b6.svg"><img src="assets/5426d65bbafb.svg" align="top" alt="...and many, many more: client sites, internal tools,"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/e17e48ed9dbc.svg"><img src="assets/55f2256dbedf.svg" align="top" alt="and experiments that are not public yet."></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/495332ff6411.svg"><img src="assets/ede0f4211dfb.svg" align="top" alt="$ bengous --links"></picture>
+<a href="https://bengous.github.io/IdeAs/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/2fa2c3ddf2b9.svg"><img src="assets/b94e94c14e5e.svg" align="top" alt="journal                       bengous.github.io/IdeAs"></picture></a>
+<a href="https://www.linkedin.com/in/augustinbengolea/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/54ca051eb23f.svg"><img src="assets/b3853552ef0d.svg" align="top" alt="linkedin                      linkedin.com/in/augustinbengolea"></picture></a>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ee96e1d77a7a.svg"><img src="assets/a2dbd049b97c.svg" align="top" alt="$"></picture>
 </pre>
