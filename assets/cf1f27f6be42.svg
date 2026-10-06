@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="735" height="20" viewBox="0 0 735 20" role="img" aria-label="agentcraft                    Voxel sandbox in Rust, built release by release by AI models">
+<style>
+text { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; font-size: 13.6px; }
+.r { animation: show 1ms 2.822s both; }
+@keyframes show { from { opacity: 0; } to { opacity: 1; } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<g class="r"><text y="14.6" fill="#1f2328"><tspan x="0" fill="#0969da" text-decoration="underline">agentcraft</tspan><tspan x="244.8">Voxel</tspan><tspan x="293.76">sandbox</tspan><tspan x="359.04">in</tspan><tspan x="383.52">Rust,</tspan><tspan x="432.48">built</tspan><tspan x="481.44">release</tspan><tspan x="546.72">by</tspan><tspan x="571.2">release</tspan><tspan x="636.48">by</tspan><tspan x="660.96">AI</tspan><tspan x="685.44">models</tspan></text></g>
+</svg>
