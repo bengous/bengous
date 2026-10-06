@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="457" height="20" viewBox="0 0 457 20" role="img" aria-label="$ bengous ls experiments      # things I built to learn">
+<style>
+text { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; font-size: 13.6px; }
+.r { animation: show 1ms 2.428s both; }
+.t { transform: translateX(179.52px); opacity: 0; animation: type 0.264s steps(22, end) 2.478s both, hide 1ms 2.782s both; }
+@keyframes type { from { transform: translateX(0); } to { transform: translateX(179.52px); } }
+@keyframes hide { from { opacity: 1; } to { opacity: 0; } }
+@keyframes show { from { opacity: 0; } to { opacity: 1; } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<g class="r"><text y="14.6" fill="#f0f6fc"><tspan x="0" font-weight="600">$</tspan><tspan x="16.32" font-weight="600">bengous</tspan><tspan x="81.6" font-weight="600">ls</tspan><tspan x="106.08" font-weight="600">experiments</tspan><tspan x="244.8">#</tspan><tspan x="261.12">things</tspan><tspan x="318.24">I</tspan><tspan x="334.56">built</tspan><tspan x="383.52">to</tspan><tspan x="408">learn</tspan></text>
+<g class="t"><rect x="16.32" y="0" width="440.64" height="20" fill="#151b23"/>
+<rect x="16.32" y="3.992" width="8.16" height="13.6" fill="#f0f6fc"/></g></g>
+</svg>

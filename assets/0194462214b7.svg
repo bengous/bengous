@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="20" viewBox="0 0 580 20" role="img" aria-label="go-htmx-todo                  Todo app with Go stdlib, htmx, and SQLite">
+<style>
+text { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; font-size: 13.6px; }
+.r { animation: show 1ms 2.886s both; }
+@keyframes show { from { opacity: 0; } to { opacity: 1; } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<g class="r"><text y="14.6" fill="#1f2328"><tspan x="0" fill="#0969da" text-decoration="underline">go-htmx-todo</tspan><tspan x="244.8">Todo</tspan><tspan x="285.6">app</tspan><tspan x="318.24">with</tspan><tspan x="359.04">Go</tspan><tspan x="383.52">stdlib,</tspan><tspan x="448.8">htmx,</tspan><tspan x="497.76">and</tspan><tspan x="530.4">SQLite</tspan></text></g>
+</svg>

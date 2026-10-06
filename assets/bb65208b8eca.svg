@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="751" height="20" viewBox="0 0 751 20" role="img" aria-label="potabilis                     Local Bun prototype behind ambiens, parses official thresholds">
+<style>
+text { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; font-size: 13.6px; }
+.r { animation: show 1ms 2.878s both; }
+@keyframes show { from { opacity: 0; } to { opacity: 1; } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<g class="r"><text y="14.6" fill="#1f2328"><tspan x="0" fill="#0969da" text-decoration="underline">potabilis</tspan><tspan x="244.8">Local</tspan><tspan x="293.76">Bun</tspan><tspan x="326.4">prototype</tspan><tspan x="408">behind</tspan><tspan x="465.12">ambiens,</tspan><tspan x="538.56">parses</tspan><tspan x="595.68">official</tspan><tspan x="669.12">thresholds</tspan></text></g>
+</svg>

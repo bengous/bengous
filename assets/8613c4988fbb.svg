@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="596" height="20" viewBox="0 0 596 20" role="img" aria-label="multireports-end2end-helper   Java 21 E2E test framework, TestNG + Allure">
+<style>
+text { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; font-size: 13.6px; }
+.r { animation: show 1ms 2.26s both; }
+@keyframes show { from { opacity: 0; } to { opacity: 1; } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<g class="r"><text y="14.6" fill="#f0f6fc"><tspan x="0" fill="#4493f8" text-decoration="underline">multireports-end2end-helper</tspan><tspan x="244.8">Java</tspan><tspan x="285.6">21</tspan><tspan x="310.08">E2E</tspan><tspan x="342.72">test</tspan><tspan x="383.52">framework,</tspan><tspan x="473.28">TestNG</tspan><tspan x="530.4">+</tspan><tspan x="546.72">Allure</tspan></text></g>
+</svg>

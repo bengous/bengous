@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="637" height="20" viewBox="0 0 637 20" role="img" aria-label="adv360                        Native Linux editor for the Kinesis Advantage360">
+<style>
+text { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; font-size: 13.6px; }
+.r { animation: show 1ms 2.188s both; }
+@keyframes show { from { opacity: 0; } to { opacity: 1; } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<g class="r"><text y="14.6" fill="#f0f6fc"><tspan x="0" fill="#4493f8" text-decoration="underline">adv360</tspan><tspan x="244.8">Native</tspan><tspan x="301.92">Linux</tspan><tspan x="350.88">editor</tspan><tspan x="408">for</tspan><tspan x="440.64">the</tspan><tspan x="473.28">Kinesis</tspan><tspan x="538.56">Advantage360</tspan></text></g>
+</svg>

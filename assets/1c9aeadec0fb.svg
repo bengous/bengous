@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="719" height="20" viewBox="0 0 719 20" role="img" aria-label="d2r-manager                   Rust case study: Diablo II save migration and stash merges">
+<style>
+text { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; font-size: 13.6px; }
+.r { animation: show 1ms 2.83s both; }
+@keyframes show { from { opacity: 0; } to { opacity: 1; } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<g class="r"><text y="14.6" fill="#1f2328"><tspan x="0" fill="#0969da" text-decoration="underline">d2r-manager</tspan><tspan x="244.8">Rust</tspan><tspan x="285.6">case</tspan><tspan x="326.4">study:</tspan><tspan x="383.52">Diablo</tspan><tspan x="440.64">II</tspan><tspan x="465.12">save</tspan><tspan x="505.92">migration</tspan><tspan x="587.52">and</tspan><tspan x="620.16">stash</tspan><tspan x="669.12">merges</tspan></text></g>
+</svg>

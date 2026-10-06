@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="596" height="20" viewBox="0 0 596 20" role="img" aria-label="npm-supply-exposure           Scan for traces of compromised npm packages">
+<style>
+text { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; font-size: 13.6px; }
+.r { animation: show 1ms 2.236s both; }
+@keyframes show { from { opacity: 0; } to { opacity: 1; } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<g class="r"><text y="14.6" fill="#1f2328"><tspan x="0" fill="#0969da" text-decoration="underline">npm-supply-exposure</tspan><tspan x="244.8">Scan</tspan><tspan x="285.6">for</tspan><tspan x="318.24">traces</tspan><tspan x="375.36">of</tspan><tspan x="399.84">compromised</tspan><tspan x="497.76">npm</tspan><tspan x="530.4">packages</tspan></text></g>
+</svg>

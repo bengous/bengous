@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="661" height="20" viewBox="0 0 661 20" role="img" aria-label="Sep  6  pepin                         A seed walks a valley of pink pyjama fibres">
+<style>
+text { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; font-size: 13.6px; }
+.r { animation: show 1ms 1.77s both; }
+@keyframes show { from { opacity: 0; } to { opacity: 1; } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<g class="r"><text y="14.6" fill="#f0f6fc"><tspan x="0">Sep</tspan><tspan x="40.8">6</tspan><tspan x="65.28" fill="#4493f8" text-decoration="underline">pepin</tspan><tspan x="310.08">A</tspan><tspan x="326.4">seed</tspan><tspan x="367.2">walks</tspan><tspan x="416.16">a</tspan><tspan x="432.48">valley</tspan><tspan x="489.6">of</tspan><tspan x="514.08">pink</tspan><tspan x="554.88">pyjama</tspan><tspan x="612">fibres</tspan></text></g>
+</svg>

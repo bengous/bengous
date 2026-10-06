@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="564" height="20" viewBox="0 0 564 20" role="img" aria-label="rust-buildsaver               Copy build artifacts to versioned paths">
+<style>
+text { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; font-size: 13.6px; }
+.r { animation: show 1ms 2.902s both; }
+@keyframes show { from { opacity: 0; } to { opacity: 1; } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<g class="r"><text y="14.6" fill="#1f2328"><tspan x="0" fill="#0969da" text-decoration="underline">rust-buildsaver</tspan><tspan x="244.8">Copy</tspan><tspan x="285.6">build</tspan><tspan x="334.56">artifacts</tspan><tspan x="416.16">to</tspan><tspan x="440.64">versioned</tspan><tspan x="522.24">paths</tspan></text></g>
+</svg>

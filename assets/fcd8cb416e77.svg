@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="784" height="20" viewBox="0 0 784 20" role="img" aria-label="I work with coding agents and build the context, tooling and guardrails that keep control of the">
+<style>
+text { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; font-size: 13.6px; }
+.r { animation: show 1ms 0.428s both; }
+@keyframes show { from { opacity: 0; } to { opacity: 1; } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<g class="r"><text y="14.6" fill="#f0f6fc"><tspan x="0">I</tspan><tspan x="16.32">work</tspan><tspan x="57.12">with</tspan><tspan x="97.92">coding</tspan><tspan x="155.04">agents</tspan><tspan x="212.16">and</tspan><tspan x="244.8">build</tspan><tspan x="293.76">the</tspan><tspan x="326.4">context,</tspan><tspan x="399.84">tooling</tspan><tspan x="465.12">and</tspan><tspan x="497.76">guardrails</tspan><tspan x="587.52">that</tspan><tspan x="628.32">keep</tspan><tspan x="669.12">control</tspan><tspan x="734.4">of</tspan><tspan x="758.88">the</tspan></text></g>
+</svg>

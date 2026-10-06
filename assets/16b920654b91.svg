@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="564" height="20" viewBox="0 0 564 20" role="img" aria-label="Javaneeese                    Distributed shared objects with locking">
+<style>
+text { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; font-size: 13.6px; }
+.r { animation: show 1ms 3.404s both; }
+@keyframes show { from { opacity: 0; } to { opacity: 1; } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<g class="r"><text y="14.6" fill="#1f2328"><tspan x="0" fill="#0969da" text-decoration="underline">Javaneeese</tspan><tspan x="244.8">Distributed</tspan><tspan x="342.72">shared</tspan><tspan x="399.84">objects</tspan><tspan x="465.12">with</tspan><tspan x="505.92">locking</tspan></text></g>
+</svg>

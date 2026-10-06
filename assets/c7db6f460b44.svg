@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="768" height="20" viewBox="0 0 768 20" role="img" aria-label="...and many, many more: client sites, internal tools, and experiments that are not public yet.">
+<style>
+text { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; font-size: 13.6px; }
+.r { animation: show 1ms 4.296s both; }
+@keyframes show { from { opacity: 0; } to { opacity: 1; } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<g class="r"><text y="14.6" fill="#f0f6fc"><tspan x="0">...and</tspan><tspan x="57.12">many,</tspan><tspan x="106.08">many</tspan><tspan x="146.88">more:</tspan><tspan x="195.84">client</tspan><tspan x="252.96">sites,</tspan><tspan x="310.08">internal</tspan><tspan x="383.52">tools,</tspan><tspan x="440.64">and</tspan><tspan x="473.28">experiments</tspan><tspan x="571.2">that</tspan><tspan x="612">are</tspan><tspan x="644.64">not</tspan><tspan x="677.28">public</tspan><tspan x="734.4">yet.</tspan></text></g>
+</svg>

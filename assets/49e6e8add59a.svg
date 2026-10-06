@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="441" height="20" viewBox="0 0 441 20" role="img" aria-label="$ bengous ls tools            # things I built to use">
+<style>
+text { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; font-size: 13.6px; }
+.r { animation: show 1ms 1.858s both; }
+.t { transform: translateX(130.56px); opacity: 0; animation: type 0.192s steps(16, end) 1.908s both, hide 1ms 2.14s both; }
+@keyframes type { from { transform: translateX(0); } to { transform: translateX(130.56px); } }
+@keyframes hide { from { opacity: 1; } to { opacity: 0; } }
+@keyframes show { from { opacity: 0; } to { opacity: 1; } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<g class="r"><text y="14.6" fill="#1f2328"><tspan x="0" font-weight="600">$</tspan><tspan x="16.32" font-weight="600">bengous</tspan><tspan x="81.6" font-weight="600">ls</tspan><tspan x="106.08" font-weight="600">tools</tspan><tspan x="244.8">#</tspan><tspan x="261.12">things</tspan><tspan x="318.24">I</tspan><tspan x="334.56">built</tspan><tspan x="383.52">to</tspan><tspan x="408">use</tspan></text>
+<g class="t"><rect x="16.32" y="0" width="424.32" height="20" fill="#f6f8fa"/>
+<rect x="16.32" y="3.992" width="8.16" height="13.6" fill="#1f2328"/></g></g>
+</svg>

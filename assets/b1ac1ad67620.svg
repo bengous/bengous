@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="20" viewBox="0 0 800 20" role="img" aria-label="kitsmith                      Opinionated Bun project scaffolder (archived, lives on in runweaver)">
+<style>
+text { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; font-size: 13.6px; }
+.r { animation: show 1ms 2.22s both; }
+@keyframes show { from { opacity: 0; } to { opacity: 1; } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<g class="r"><text y="14.6" fill="#f0f6fc"><tspan x="0" fill="#4493f8" text-decoration="underline">kitsmith</tspan><tspan x="244.8">Opinionated</tspan><tspan x="342.72">Bun</tspan><tspan x="375.36">project</tspan><tspan x="440.64">scaffolder</tspan><tspan x="530.4">(archived,</tspan><tspan x="620.16">lives</tspan><tspan x="669.12">on</tspan><tspan x="693.6">in</tspan><tspan x="718.08">runweaver)</tspan></text></g>
+</svg>

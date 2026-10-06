@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="596" height="20" viewBox="0 0 596 20" role="img" aria-label="IDS                           Socket echo server and calculator exercises">
+<style>
+text { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; font-size: 13.6px; }
+.r { animation: show 1ms 3.412s both; }
+@keyframes show { from { opacity: 0; } to { opacity: 1; } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<g class="r"><text y="14.6" fill="#1f2328"><tspan x="0" fill="#0969da" text-decoration="underline">IDS</tspan><tspan x="244.8">Socket</tspan><tspan x="301.92">echo</tspan><tspan x="342.72">server</tspan><tspan x="399.84">and</tspan><tspan x="432.48">calculator</tspan><tspan x="522.24">exercises</tspan></text></g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="564" height="20" viewBox="0 0 564 20" role="img" aria-label="guigpap/CV                    Terminal-style portfolio, design + code">
+<style>
+text { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; font-size: 13.6px; }
+.r { animation: show 1ms 3.862s both; }
+@keyframes show { from { opacity: 0; } to { opacity: 1; } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<g class="r"><text y="14.6" fill="#f0f6fc"><tspan x="0" fill="#4493f8" text-decoration="underline">guigpap/CV</tspan><tspan x="244.8">Terminal-style</tspan><tspan x="367.2">portfolio,</tspan><tspan x="456.96">design</tspan><tspan x="514.08">+</tspan><tspan x="530.4">code</tspan></text></g>
+</svg>
