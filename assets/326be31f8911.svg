@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="547" height="20" viewBox="0 0 547 20" role="img" aria-label="MindstormLeagueDecision       PDDL planner for Lego Mindstorm robot">
+<style>
+text { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; font-size: 13.6px; }
+.r { animation: show 1ms 3.316s both; }
+@keyframes show { from { opacity: 0; } to { opacity: 1; } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<g class="r"><text y="14.6" fill="#1f2328"><tspan x="0" fill="#0969da" text-decoration="underline">MindstormLeagueDecision</tspan><tspan x="244.8">PDDL</tspan><tspan x="285.6">planner</tspan><tspan x="350.88">for</tspan><tspan x="383.52">Lego</tspan><tspan x="424.32">Mindstorm</tspan><tspan x="505.92">robot</tspan></text></g>
+</svg>

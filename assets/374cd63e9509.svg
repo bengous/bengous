@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="588" height="20" viewBox="0 0 588 20" role="img" aria-label="vex                           VLM-powered visual analysis of web layouts">
+<style>
+text { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; font-size: 13.6px; }
+.r { animation: show 1ms 2.148s both; }
+@keyframes show { from { opacity: 0; } to { opacity: 1; } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<g class="r"><text y="14.6" fill="#f0f6fc"><tspan x="0" fill="#4493f8" text-decoration="underline">vex</tspan><tspan x="244.8">VLM-powered</tspan><tspan x="342.72">visual</tspan><tspan x="399.84">analysis</tspan><tspan x="473.28">of</tspan><tspan x="497.76">web</tspan><tspan x="530.4">layouts</tspan></text></g>
+</svg>

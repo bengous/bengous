@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="588" height="20" viewBox="0 0 588 20" role="img" aria-label="wireframer                    Inject into pages, export DOM as wireframe">
+<style>
+text { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; font-size: 13.6px; }
+.r { animation: show 1ms 2.164s both; }
+@keyframes show { from { opacity: 0; } to { opacity: 1; } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<g class="r"><text y="14.6" fill="#f0f6fc"><tspan x="0" fill="#4493f8" text-decoration="underline">wireframer</tspan><tspan x="244.8">Inject</tspan><tspan x="301.92">into</tspan><tspan x="342.72">pages,</tspan><tspan x="399.84">export</tspan><tspan x="456.96">DOM</tspan><tspan x="489.6">as</tspan><tspan x="514.08">wireframe</tspan></text></g>
+</svg>

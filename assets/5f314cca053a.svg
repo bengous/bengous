@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="474" height="20" viewBox="0 0 474 20" role="img" aria-label="AdventOfCode2022              AoC 2022 solutions, days 1-4">
+<style>
+text { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; font-size: 13.6px; }
+.r { animation: show 1ms 3.444s both; }
+@keyframes show { from { opacity: 0; } to { opacity: 1; } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<g class="r"><text y="14.6" fill="#1f2328"><tspan x="0" fill="#0969da" text-decoration="underline">AdventOfCode2022</tspan><tspan x="244.8">AoC</tspan><tspan x="277.44">2022</tspan><tspan x="318.24">solutions,</tspan><tspan x="408">days</tspan><tspan x="448.8">1-4</tspan></text></g>
+</svg>

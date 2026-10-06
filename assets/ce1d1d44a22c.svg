@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="621" height="20" viewBox="0 0 621 20" role="img" aria-label="draft-flow-refine             Photoshoot draft review workflow UI (archived)">
+<style>
+text { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; font-size: 13.6px; }
+.r { animation: show 1ms 2.332s both; }
+@keyframes show { from { opacity: 0; } to { opacity: 1; } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<g class="r"><text y="14.6" fill="#1f2328"><tspan x="0" fill="#0969da" text-decoration="underline">draft-flow-refine</tspan><tspan x="244.8">Photoshoot</tspan><tspan x="334.56">draft</tspan><tspan x="383.52">review</tspan><tspan x="440.64">workflow</tspan><tspan x="514.08">UI</tspan><tspan x="538.56">(archived)</tspan></text></g>
+</svg>

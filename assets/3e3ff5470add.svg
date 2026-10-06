@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="20" viewBox="0 0 580 20" role="img" aria-label="d2-lab                        IAS calculator for Diablo II: Resurrected">
+<style>
+text { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; font-size: 13.6px; }
+.r { animation: show 1ms 2.822s both; }
+@keyframes show { from { opacity: 0; } to { opacity: 1; } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<g class="r"><text y="14.6" fill="#1f2328"><tspan x="0" fill="#0969da" text-decoration="underline">d2-lab</tspan><tspan x="244.8">IAS</tspan><tspan x="277.44">calculator</tspan><tspan x="367.2">for</tspan><tspan x="399.84">Diablo</tspan><tspan x="456.96">II:</tspan><tspan x="489.6">Resurrected</tspan></text></g>
+</svg>

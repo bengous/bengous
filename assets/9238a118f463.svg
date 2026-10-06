@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="384" height="20" viewBox="0 0 384 20" role="img" aria-label="Java and Kotlin on regulated-industry backends.">
+<style>
+text { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; font-size: 13.6px; }
+.r { animation: show 1ms 1.18s both; }
+@keyframes show { from { opacity: 0; } to { opacity: 1; } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<g class="r"><text y="14.6" fill="#f0f6fc"><tspan x="0">Java</tspan><tspan x="40.8">and</tspan><tspan x="73.44">Kotlin</tspan><tspan x="130.56">on</tspan><tspan x="155.04">regulated-industry</tspan><tspan x="310.08">backends.</tspan></text></g>
+</svg>

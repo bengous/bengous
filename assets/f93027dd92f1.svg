@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="555" height="20" viewBox="0 0 555 20" role="img" aria-label="cosmopolitan                  MinCaml-to-ARM compiler, full pipeline">
+<style>
+text { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; font-size: 13.6px; }
+.r { animation: show 1ms 3.34s both; }
+@keyframes show { from { opacity: 0; } to { opacity: 1; } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<g class="r"><text y="14.6" fill="#f0f6fc"><tspan x="0" fill="#4493f8" text-decoration="underline">cosmopolitan</tspan><tspan x="244.8">MinCaml-to-ARM</tspan><tspan x="367.2">compiler,</tspan><tspan x="448.8">full</tspan><tspan x="489.6">pipeline</tspan></text></g>
+</svg>

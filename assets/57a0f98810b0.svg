@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="20" viewBox="0 0 490 20" role="img" aria-label="patia                         JavaFX point stream visualizer">
+<style>
+text { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; font-size: 13.6px; }
+.r { animation: show 1ms 3.42s both; }
+@keyframes show { from { opacity: 0; } to { opacity: 1; } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<g class="r"><text y="14.6" fill="#f0f6fc"><tspan x="0" fill="#4493f8" text-decoration="underline">patia</tspan><tspan x="244.8">JavaFX</tspan><tspan x="301.92">point</tspan><tspan x="350.88">stream</tspan><tspan x="408">visualizer</tspan></text></g>
+</svg>

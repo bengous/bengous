@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="172" height="20" viewBox="0 0 172 20" role="img" aria-label="ls: permission denied">
+<style>
+text { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; font-size: 13.6px; }
+.r { animation: show 1ms 4.288s both; }
+@keyframes show { from { opacity: 0; } to { opacity: 1; } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<g class="r"><text y="14.6" fill="#1f2328"><tspan x="0">ls:</tspan><tspan x="32.64">permission</tspan><tspan x="122.4">denied</tspan></text></g>
+</svg>

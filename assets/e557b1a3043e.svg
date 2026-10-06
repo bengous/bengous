@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="816" height="20" viewBox="0 0 816 20" role="img" aria-label="Sep 29  caveats                       Find hidden text in a CV, judge its intent, hand it to a human">
+<style>
+text { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; font-size: 13.6px; }
+.r { animation: show 1ms 1.722s both; }
+@keyframes show { from { opacity: 0; } to { opacity: 1; } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<g class="r"><text y="14.6" fill="#1f2328"><tspan x="0">Sep</tspan><tspan x="32.64">29</tspan><tspan x="65.28" fill="#0969da" text-decoration="underline">caveats</tspan><tspan x="310.08">Find</tspan><tspan x="350.88">hidden</tspan><tspan x="408">text</tspan><tspan x="448.8">in</tspan><tspan x="473.28">a</tspan><tspan x="489.6">CV,</tspan><tspan x="522.24">judge</tspan><tspan x="571.2">its</tspan><tspan x="603.84">intent,</tspan><tspan x="669.12">hand</tspan><tspan x="709.92">it</tspan><tspan x="734.4">to</tspan><tspan x="758.88">a</tspan><tspan x="775.2">human</tspan></text></g>
+</svg>

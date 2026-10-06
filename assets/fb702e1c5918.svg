@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="588" height="20" viewBox="0 0 588 20" role="img" aria-label="benjamin-rouanet/mon-cv       Horology CV site + linked educational game">
+<style>
+text { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; font-size: 13.6px; }
+.r { animation: show 1ms 3.87s both; }
+@keyframes show { from { opacity: 0; } to { opacity: 1; } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<g class="r"><text y="14.6" fill="#1f2328"><tspan x="0" fill="#0969da" text-decoration="underline">benjamin-rouanet/mon-cv</tspan><tspan x="244.8">Horology</tspan><tspan x="318.24">CV</tspan><tspan x="342.72">site</tspan><tspan x="383.52">+</tspan><tspan x="399.84">linked</tspan><tspan x="456.96">educational</tspan><tspan x="554.88">game</tspan></text></g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="474" height="20" viewBox="0 0 474 20" role="img" aria-label="$ bengous ls collabs          # things I built for others">
+<style>
+text { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; font-size: 13.6px; }
+.r { animation: show 1ms 3.532s both; }
+.t { transform: translateX(146.88px); opacity: 0; animation: type 0.216s steps(18, end) 3.582s both, hide 1ms 3.838s both; }
+@keyframes type { from { transform: translateX(0); } to { transform: translateX(146.88px); } }
+@keyframes hide { from { opacity: 1; } to { opacity: 0; } }
+@keyframes show { from { opacity: 0; } to { opacity: 1; } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<g class="r"><text y="14.6" fill="#f0f6fc"><tspan x="0" font-weight="600">$</tspan><tspan x="16.32" font-weight="600">bengous</tspan><tspan x="81.6" font-weight="600">ls</tspan><tspan x="106.08" font-weight="600">collabs</tspan><tspan x="244.8">#</tspan><tspan x="261.12">things</tspan><tspan x="318.24">I</tspan><tspan x="334.56">built</tspan><tspan x="383.52">for</tspan><tspan x="416.16">others</tspan></text>
+<g class="t"><rect x="16.32" y="0" width="456.96" height="20" fill="#151b23"/>
+<rect x="16.32" y="3.992" width="8.16" height="13.6" fill="#f0f6fc"/></g></g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="621" height="20" viewBox="0 0 621 20" role="img" aria-label="DomoCuisto                    Astro site on Cloudflare, migrated off Shopify">
+<style>
+text { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; font-size: 13.6px; }
+.r { animation: show 1ms 3.838s both; }
+@keyframes show { from { opacity: 0; } to { opacity: 1; } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<g class="r"><text y="14.6" fill="#f0f6fc"><tspan x="0" fill="#4493f8" text-decoration="underline">DomoCuisto</tspan><tspan x="244.8">Astro</tspan><tspan x="293.76">site</tspan><tspan x="334.56">on</tspan><tspan x="359.04">Cloudflare,</tspan><tspan x="456.96">migrated</tspan><tspan x="530.4">off</tspan><tspan x="563.04">Shopify</tspan></text></g>
+</svg>

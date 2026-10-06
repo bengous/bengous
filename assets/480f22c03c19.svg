@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="433" height="20" viewBox="0 0 433 20" role="img" aria-label="Rust case studies and open data web apps on the side.">
+<style>
+text { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; font-size: 13.6px; }
+.r { animation: show 1ms 0.814s both; }
+@keyframes show { from { opacity: 0; } to { opacity: 1; } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<g class="r"><text y="14.6" fill="#1f2328"><tspan x="0">Rust</tspan><tspan x="40.8">case</tspan><tspan x="81.6">studies</tspan><tspan x="146.88">and</tspan><tspan x="179.52">open</tspan><tspan x="220.32">data</tspan><tspan x="261.12">web</tspan><tspan x="293.76">apps</tspan><tspan x="334.56">on</tspan><tspan x="359.04">the</tspan><tspan x="391.68">side.</tspan></text></g>
+</svg>

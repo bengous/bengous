@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="588" height="20" viewBox="0 0 588 20" role="img" aria-label="scripts-and-snippets          Small standalone scripts, one problem each">
+<style>
+text { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; font-size: 13.6px; }
+.r { animation: show 1ms 2.204s both; }
+@keyframes show { from { opacity: 0; } to { opacity: 1; } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<g class="r"><text y="14.6" fill="#1f2328"><tspan x="0" fill="#0969da" text-decoration="underline">scripts-and-snippets</tspan><tspan x="244.8">Small</tspan><tspan x="293.76">standalone</tspan><tspan x="383.52">scripts,</tspan><tspan x="456.96">one</tspan><tspan x="489.6">problem</tspan><tspan x="554.88">each</tspan></text></g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="710" height="20" viewBox="0 0 710 20" role="img" aria-label="Sep 29  circuito-combinacion          Few-prompt circuit demo for a veteran electrician">
+<style>
+text { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; font-size: 13.6px; }
+.r { animation: show 1ms 1.714s both; }
+@keyframes show { from { opacity: 0; } to { opacity: 1; } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<g class="r"><text y="14.6" fill="#f0f6fc"><tspan x="0">Sep</tspan><tspan x="32.64">29</tspan><tspan x="65.28" fill="#4493f8" text-decoration="underline">circuito-combinacion</tspan><tspan x="310.08">Few-prompt</tspan><tspan x="399.84">circuit</tspan><tspan x="465.12">demo</tspan><tspan x="505.92">for</tspan><tspan x="538.56">a</tspan><tspan x="554.88">veteran</tspan><tspan x="620.16">electrician</tspan></text></g>
+</svg>

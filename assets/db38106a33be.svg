@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="596" height="20" viewBox="0 0 596 20" role="img" aria-label="rust-game-of-conway           Conway's Game of Life with Piston rendering">
+<style>
+text { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; font-size: 13.6px; }
+.r { animation: show 1ms 2.926s both; }
+@keyframes show { from { opacity: 0; } to { opacity: 1; } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<g class="r"><text y="14.6" fill="#1f2328"><tspan x="0" fill="#0969da" text-decoration="underline">rust-game-of-conway</tspan><tspan x="244.8">Conway's</tspan><tspan x="318.24">Game</tspan><tspan x="359.04">of</tspan><tspan x="383.52">Life</tspan><tspan x="424.32">with</tspan><tspan x="465.12">Piston</tspan><tspan x="522.24">rendering</tspan></text></g>
+</svg>

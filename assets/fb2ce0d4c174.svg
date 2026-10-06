@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="670" height="20" viewBox="0 0 670 20" role="img" aria-label="Oct  2  claude-code-plugins           Opinionated workflow plugins for Claude Code">
+<style>
+text { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; font-size: 13.6px; }
+.r { animation: show 1ms 1.698s both; }
+@keyframes show { from { opacity: 0; } to { opacity: 1; } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<g class="r"><text y="14.6" fill="#f0f6fc"><tspan x="0">Oct</tspan><tspan x="40.8">2</tspan><tspan x="65.28" fill="#4493f8" text-decoration="underline">claude-code-plugins</tspan><tspan x="310.08">Opinionated</tspan><tspan x="408">workflow</tspan><tspan x="481.44">plugins</tspan><tspan x="546.72">for</tspan><tspan x="579.36">Claude</tspan><tspan x="636.48">Code</tspan></text></g>
+</svg>

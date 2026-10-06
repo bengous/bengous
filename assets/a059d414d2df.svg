@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="808" height="20" viewBox="0 0 808 20" role="img" aria-label="runweaver                     Declare quality tooling once for agent hooks, Git hooks, CI, and CLIs">
+<style>
+text { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; font-size: 13.6px; }
+.r { animation: show 1ms 2.252s both; }
+@keyframes show { from { opacity: 0; } to { opacity: 1; } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<g class="r"><text y="14.6" fill="#1f2328"><tspan x="0" fill="#0969da" text-decoration="underline">runweaver</tspan><tspan x="244.8">Declare</tspan><tspan x="310.08">quality</tspan><tspan x="375.36">tooling</tspan><tspan x="440.64">once</tspan><tspan x="481.44">for</tspan><tspan x="514.08">agent</tspan><tspan x="563.04">hooks,</tspan><tspan x="620.16">Git</tspan><tspan x="652.8">hooks,</tspan><tspan x="709.92">CI,</tspan><tspan x="742.56">and</tspan><tspan x="775.2">CLIs</tspan></text></g>
+</svg>

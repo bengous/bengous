@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="564" height="20" viewBox="0 0 564 20" role="img" aria-label="git-image-par-image           Git explained frame by frame, in French">
-<style>
-text { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; font-size: 13.6px; white-space: pre; }
-.r { animation: show 1ms 2.838s both; }
-@keyframes show { from { opacity: 0; } to { opacity: 1; } }
-@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
-</style>
-<g class="r"><text x="0" y="14.6" fill="#1f2328" textLength="563.04" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#0969da" text-decoration="underline">git-image-par-image</tspan>           Git explained frame by frame, in French</text></g>
-</svg>

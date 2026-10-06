@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="531" height="20" viewBox="0 0 531 20" role="img" aria-label="prime-courses                 Daily kata generator for algorithms">
+<style>
+text { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; font-size: 13.6px; }
+.r { animation: show 1ms 3.428s both; }
+@keyframes show { from { opacity: 0; } to { opacity: 1; } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<g class="r"><text y="14.6" fill="#f0f6fc"><tspan x="0" fill="#4493f8" text-decoration="underline">prime-courses</tspan><tspan x="244.8">Daily</tspan><tspan x="293.76">kata</tspan><tspan x="334.56">generator</tspan><tspan x="416.16">for</tspan><tspan x="448.8">algorithms</tspan></text></g>
+</svg>
