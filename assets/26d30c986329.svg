@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="572" height="20" viewBox="0 0 572 20" role="img" aria-label="agent-visitor                 Walk a codebase, emit per-directory YAML">
+<style>
+text { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; font-size: 13.6px; }
+.r { animation: show 1ms 2.268s both; }
+@keyframes show { from { opacity: 0; } to { opacity: 1; } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<g class="r"><text y="14.6" fill="#f0f6fc"><tspan x="0" fill="#4493f8" text-decoration="underline">agent-visitor</tspan><tspan x="244.8">Walk</tspan><tspan x="285.6">a</tspan><tspan x="301.92">codebase,</tspan><tspan x="383.52">emit</tspan><tspan x="424.32">per-directory</tspan><tspan x="538.56">YAML</tspan></text></g>
+</svg>

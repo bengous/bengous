@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="588" height="20" viewBox="0 0 588 20" role="img" aria-label="productivity-tracking         Git-backed task manager with calendar sync">
+<style>
+text { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; font-size: 13.6px; }
+.r { animation: show 1ms 2.292s both; }
+@keyframes show { from { opacity: 0; } to { opacity: 1; } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<g class="r"><text y="14.6" fill="#f0f6fc"><tspan x="0" fill="#4493f8" text-decoration="underline">productivity-tracking</tspan><tspan x="244.8">Git-backed</tspan><tspan x="334.56">task</tspan><tspan x="375.36">manager</tspan><tspan x="440.64">with</tspan><tspan x="481.44">calendar</tspan><tspan x="554.88">sync</tspan></text></g>
+</svg>
